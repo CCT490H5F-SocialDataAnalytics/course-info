@@ -107,13 +107,6 @@ You, as a student at UTM, have the right to:
             David Lazer et al., Computational Social Science <br />
             Kate Crawford, Artificial Intelligence's White Guy Problem <br />
         </td>
-        <td>9/8</td>
-        <td>Davis 3131</td>
-        <td>
-            <em>Introduction</em><br/>
-            David Lazer et al., "Computational Social Science" <br />
-            Kate Crawford, "Artificial Intelligence's White Guy Problem"
-        </td>
     </tr>
     <tr>
         <td>9/15</td>
