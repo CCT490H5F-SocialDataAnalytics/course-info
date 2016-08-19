@@ -97,28 +97,81 @@ You, as a student at UTM, have the right to:
     <tr>
         <th>Date</th>
         <th>Location</th>
-        <th>Topic and readings</th>
+        <th>Topic</th>
+        <th>Readings</th>
     </tr>
     <tr>
-        <td>9/8</td>
-        <td>Davis 3131</td>
+        <td>Sept. 8</td>
+        <td>DV 3131</td>
+        <td>Introduction and setup</td>
         <td>
-            <em>Introduction and setup<br/>
             David Lazer et al., Computational Social Science <br />
             Kate Crawford, Artificial Intelligence's White Guy Problem <br />
         </td>
     </tr>
     <tr>
-        <td>9/15</td>
+        <td>Sept. 15</td>
         <td>CC 3110</td>
-        <td><em>Lab setup</em><br/>
-            Laurie A. Williams and Robert R. Kessler, "All I Really Need to Know About Pair Programming I Learned in Kindergarten"
+        <td>Lab setup</td>
+        <td>
+            Laurie A. Williams and Robert R. Kessler, "All I Really Need to Know About Pair Programming I Learned in Kindergarten" 
         </td>
     </tr>
+    <tr>
+        <td>Sept. 22</td>
+        <td>NO CLASS</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Sept. 29</td>
+        <td>DV 3131</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Oct. 6</td>
+        <td>CC 3110</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Oct. 20</td>
+        <td>DV 3131</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Oct. 27</td>
+        <td>CC 3110</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Nov. 3</td>
+        <td>DV 3131</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Nov. 10</td>
+        <td>CC 3110</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Nov. 17</td>
+        <td>DV 3131</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Nov. 27</td>
+        <td>CC 3110</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>Dec. 1</td>
+        <td>DV 3131</td>
+        <td></td><td></td>
+    </tr>
+    <tr>
+        <td>DATE TBD</td>
+        <td>LOCATION TBD</td>
+        <td>FINAL EXAM</td><td></td>
+    </tr>
 </table>
-
-
-
-
-
 
