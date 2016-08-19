@@ -1,14 +1,14 @@
-## CCT490H5F - Social Data Analytics, Fall 2016
+# CCT490H5F - Social Data Analytics, Fall 2016
 
-Instructor: Professor Alex Hanna 
-Instructor Email: alex.hanna@utoronto.ca
-Office: CC 3080
-TA: [TBD]
-TA Email: [TBD]
+- Instructor: Professor Alex Hanna 
+- Instructor Email: alex.hanna@utoronto.ca
+- Office: CC 3080
+- TA: [TBD]
+- TA Email: [TBD]
 
-Meetings: Thursday 11 AM - 1 PM
-Locations: Davis 3131 and CC 3110 (Digital Media Lab)
-Office hours: Thursday 1:15 - 3:15 PM, or by appointment
+- Meetings: Thursday 11 AM - 1 PM
+- Locations: Davis 3131 and CC 3110 (Digital Media Lab)
+- Office hours: Thursday 1:15 - 3:15 PM, or by appointment
 
 ### Course Description
 
@@ -39,29 +39,29 @@ By the end of this course, you should be able to do the following:
 
 ### Grading
 
-Attendance: 10%
-Quizzes: 10%
-Midterm exam: 20%
-Final exam: 20%
-Project: 40%
+- Attendance: 10%
+- Quizzes: 10%
+- Midterm exam: 20%
+- Final exam: 20%
+- Project: 40%
 
 Letter grade distribution:
 
-90-100  A+
-85-89   A
-80-84   A-
-77-79   B+
-73-76   B
-70-72   B-
-67-69   C+
-63-66   C
-60-62   C-
-57-59   D+
-53-56   D
-50-52   D-
-0-49    F
+- 90-100  A+
+- 85-89   A
+- 80-84   A-
+- 77-79   B+
+- 73-76   B
+- 70-72   B-
+- 67-69   C+
+- 63-66   C
+- 60-62   C-
+- 57-59   D+
+- 53-56   D
+- 50-52   D-
+- 0-49    F
 
-### Policies
+## Policies
 
 
 ### Academic Integrity
