@@ -93,10 +93,38 @@ You, as a student at UTM, have the right to:
 
 ### Semester schedule
 
-- Ethics and background
-    - [Overview piece]
-    - White House report(s)?
-    - Artificial Intelligence's White Guy problem by Kate Crawford
+<table>
+    <tr>
+        <th>Date</th>
+        <th>Location</th>
+        <th>Topic and readings</th>
+    </tr>
+    <tr>
+        <td>9/8</td>
+        <td>Davis 3131</td>
+        <td>
+            <em>Introduction and setup<br/>
+            David Lazer et al., Computational Social Science <br />
+            Kate Crawford, Artificial Intelligence's White Guy Problem <br />
+        </td>
+        <td>9/8</td>
+        <td>Davis 3131</td>
+        <td>
+            <em>Introduction</em><br/>
+            David Lazer et al., "Computational Social Science" <br />
+            Kate Crawford, "Artificial Intelligence's White Guy Problem"
+        </td>
+    </tr>
+    <tr>
+        <td>9/15</td>
+        <td>CC 3110</td>
+        <td><em>Lab setup</em><br/>
+            Laurie A. Williams and Robert R. Kessler, "All I Really Need to Know About Pair Programming I Learned in Kindergarten"
+        </td>
+    </tr>
+</table>
+
+
 
 
 
