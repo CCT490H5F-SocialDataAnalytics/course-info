@@ -3,9 +3,8 @@
 - Instructor: Professor Alex Hanna 
 - Instructor Email: alex.hanna@utoronto.ca
 - Office: CC 3080
-- TA: [TBD]
-- TA Email: [TBD]
-
+- TA: TBD
+- TA Email: TBD
 - Meetings: Thursday 11 AM - 1 PM
 - Locations: Davis 3131 and CC 3110 (Digital Media Lab)
 - Office hours: Thursday 1:15 - 3:15 PM, or by appointment
@@ -24,14 +23,13 @@ By the end of this course, you should be able to do the following:
 
 ## Course Requirements
 
-*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social trace data, and both popular and scholarly examples of cutting-edge data analysis work.
+*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social trace data, and both popular and scholarly examples of cutting-edge data analysis work.
 
 *Attendance* - This is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. Because of that, it is important for you to attend labs and get experience programming different types of exercises. We will start lab assignments in class, but you are expected to complete them in your own time.
 
-<!-- *Journals* - You will be expected to discuss programming concepts and readings on the Learning Portal. For each week, you should write a few sentences about the concept we are discussing in class that week. This can concern anything we discussed: the readings, the programming concept discussed in lecture, questions about particular problems you are having, etc. 
- -->
 
-*Quizzes* - There will be a short quiz each day in the lecture portion of the class. The quiz will cover readings, code principles, and lab activities. 
+*Quizzes* - There will be a number of short quizzes which cover readings, code principles, and lab activities. 
+    - [Can I do these quizzes online before class? [no, I can't]]
 
 *Exams* - There will be two exams which will focus on coding principles. The final exam will occur during the usual final exam period.
 
@@ -41,9 +39,12 @@ By the end of this course, you should be able to do the following:
 
 - Attendance: 10%
 - Quizzes: 10%
-- Midterm exam: 20%
+- Assignments: 20%
 - Final exam: 20%
 - Project: 40%
+    - Outline: 5%
+    - Full prospectus: 10%
+    - Full project: 25% 
 
 Letter grade distribution:
 
@@ -98,7 +99,7 @@ You, as a student at UTM, have the right to:
         <th>Date</th>
         <th>Location</th>
         <th>Topic</th>
-        <th>Readings</th>
+        <th>Readings and assignments</th>
     </tr>
     <tr>
         <td>Sept. 8</td>
@@ -112,7 +113,7 @@ You, as a student at UTM, have the right to:
     <tr>
         <td>Sept. 15</td>
         <td>CC 3110</td>
-        <td>Lab setup</td>
+        <td>Lab setup, introduction to Python</td>
         <td>
             Laurie A. Williams and Robert R. Kessler, "All I Really Need to Know About Pair Programming I Learned in Kindergarten" 
         </td>
@@ -120,53 +121,68 @@ You, as a student at UTM, have the right to:
     <tr>
         <td>Sept. 22</td>
         <td>NO CLASS</td>
-        <td></td>
-        <td></td>
+        <td>Introduction to Python</td>
+        <td><strong>Assignment #1 due</strong></td>
     </tr>
     <tr>
         <td>Sept. 29</td>
         <td>DV 3131</td>
-        <td></td><td></td>
+        <td>Data cleaning and manipulation</td>
+        <td></td>
     </tr>
     <tr>
         <td>Oct. 6</td>
         <td>CC 3110</td>
-        <td></td><td></td>
+        <td>Data cleaning and manipulation</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Oct. 13</td>
+        <td>NO CLASS - reading week</td>
+        <td>Data cleaning and manipulation</td>
+        <td><strong>Assignment #2 due</strong></td>
     </tr>
     <tr>
         <td>Oct. 20</td>
         <td>DV 3131</td>
-        <td></td><td></td>
+        <td>Data modeling and visualisation</td>
+        <td></td>
     </tr>
     <tr>
         <td>Oct. 27</td>
         <td>CC 3110</td>
-        <td></td><td></td>
+        <td>Data modeling and visualization</td>
+        <td><strong>Project prospectus due</strong></td>
     </tr>
     <tr>
         <td>Nov. 3</td>
         <td>DV 3131</td>
-        <td></td><td></td>
+        <td>Web scraping and APIs</td>
+        <td></td>
     </tr>
     <tr>
         <td>Nov. 10</td>
         <td>CC 3110</td>
-        <td></td><td></td>
+        <td>Web scraping and APIs</td>
+        <td><strong>Assignment #3 due</strong></td>
     </tr>
     <tr>
         <td>Nov. 17</td>
         <td>DV 3131</td>
-        <td></td><td></td>
+        <td>Automated text analysis and social network analysis</td>
+        <td></td>
     </tr>
     <tr>
         <td>Nov. 27</td>
         <td>CC 3110</td>
-        <td></td><td></td>
+        <td>Automated text analysis and social network analysis</td>
+        <td><strong>Assignment #4 due</strong></td>
     </tr>
     <tr>
         <td>Dec. 1</td>
         <td>DV 3131</td>
-        <td></td><td></td>
+        <td>Review</td>
+        <td><strong>Final project due</strong></td>
     </tr>
     <tr>
         <td>DATE TBD</td>
