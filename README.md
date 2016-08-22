@@ -104,8 +104,8 @@ You, as a student at UTM, have the right to:
         <td>DV 3131</td>
         <td>Introduction and setup</td>
         <td>
-            David Lazer et al., Computational Social Science <br />
-            Kate Crawford, Artificial Intelligence's White Guy Problem <br />
+            - David Lazer et al., Computational Social Science <br />
+            - Kate Crawford, Artificial Intelligence's White Guy Problem <br />
         </td>
     </tr>
     <tr>
@@ -169,7 +169,7 @@ You, as a student at UTM, have the right to:
         <td>Nov. 17</td>
         <td>DV 3131</td>
         <td>Automated text analysis and social network analysis</td>
-        <td>*Mid-term report due*</td>
+        <td><strong>Mid-term report due</strong></td>
     </tr>
     <tr>
         <td>Nov. 27</td>
