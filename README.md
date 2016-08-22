@@ -13,6 +13,8 @@
 
 This course highlights the research in analysis for social data and builds skills to undertake those analysis. It is a lab-intensive course intended to build up data analytic skills for novice and intermediate researchers. We start with reviews of recent studies using "big data" which are primarily theoretical, including critiques of data analytics and data ethics. We then cover several fields: health, strategic and consumer research, and politics. At the same time, we will be learning a programming language -- Python -- and learn how to scrape social data, store and collect it, run basic statistics, generate visuals, and create a report based on a project of interest.
 
+There are two types of class settings in this course. The first will be more lecture-oriented, which will take place in the Davis 3131. These sessions will focus on theoretical principles of social data analysis, on coding principles, and examples of social data analysis in the wild. The second will be in the Digital Media Lab, CC 3110. These sessions will focus on applying the knowledge learned in lecture and completing an instructional lab assignment. Given the limited space in the lab, you will be paired together with a lab partner, namely someone who has similar research interests and a complementary level of programming knowledge.
+
 By the end of this course, you should be able to do the following:
 
 1. *Identify* potential social data sources which you can use to answer social scientific questions
@@ -23,17 +25,15 @@ By the end of this course, you should be able to do the following:
 
 ## Course Requirements
 
-*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social trace data, and both popular and scholarly examples of cutting-edge data analysis work.
+*Attendance* - Lecture will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistant and myself.
 
-*Attendance* - This is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. Because of that, it is important for you to attend labs and get experience programming different types of exercises. We will start lab assignments in class, but you are expected to complete them in your own time.
+*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work.
 
+*Quizzes* - There will be a number of short quizzes which cover readings, coding principles, and lab activities. Quizzes will be held during the first part of lecture. You must be present in lecture to take the quiz. 
 
-*Quizzes* - There will be a number of short quizzes which cover readings, code principles, and lab activities. 
-    - [Can I do these quizzes online before class? [no, I can't]]
+*Exams* - There will be a comprehensive final exam which will focus on social science research and coding principles. The final exam will occur during the usual final exam period. It will be a mix of multiple choice and open-ended questions.
 
-*Exams* - There will be two exams which will focus on coding principles. The final exam will occur during the usual final exam period.
-
-*Project* - 
+*Project* - This course is oriented such that you can design and execute research projects concerning questions of your choosing. To that end, you will be doing that exact thing in this course. At several points in the semester, there will be a milestone you must reach with the project. Early on, you'll write a short (one-page) *abstract* about your project: the question you are trying to answer, potential data sources, and types of analyses you will undertake. That will then be fleshed out into a larger (two- to three-page) *prospectus*, which describes in more detail the research question, why it is an important question, then outlines concretely the tasks for data collection, management, and finally analysis. Several weeks before the project is due, you will submit a *mid-term report* which discusses the progress of your project, the difficulties you've had thus far, and what you have left to finish. Lastly, at the end of the semester, you will submit a six- to ten-page *final report* which describes your research project in full. It should contain all graphs and figures, and have correct citations. You will also have to submit your code and the data you used.
 
 ### Grading
 
@@ -42,36 +42,34 @@ By the end of this course, you should be able to do the following:
 - Assignments: 20%
 - Final exam: 20%
 - Project: 40%
-    - Outline: 5%
-    - Full prospectus: 10%
-    - Full project: 25% 
+    - Abstract: 5%
+    - Prospectus: 10%
+    - Mid-term report: 5%
+    - Final report: 20% 
 
 Letter grade distribution:
 
-- 90-100  A+
-- 85-89   A
-- 80-84   A-
-- 77-79   B+
-- 73-76   B
-- 70-72   B-
-- 67-69   C+
-- 63-66   C
-- 60-62   C-
-- 57-59   D+
-- 53-56   D
-- 50-52   D-
-- 0-49    F
+    90-100  A+
+    85-89   A
+    80-84   A-
+    77-79   B+
+    73-76   B
+    70-72   B-
+    67-69   C+
+    63-66   C
+    60-62   C-
+    57-59   D+
+    53-56   D
+    50-52   D-
+    0-49    F
 
-## Policies
-
-
-### Academic Integrity
+## Academic Integrity
 
 I understand that as the semester progresses, you will no doubt be juggling multiple class assignments, studying for exams, part-time paid work, and campus/community activism. This added stress can affect your well-being, emotions, and school performance. Therefore, time management early in the semester is part of the key to success in college. Avoid cutting corners and especially, avoid any type of behaviour (such as copying and pasting material from the internet without proper citation) that can be interpreted as plagiarism and academic misconduct. A clear definition of academic integrity as well as information about disciplinary sanctions for academic misconduct may be found at the University of Toronto Academic Integrity website ([http://academicintegrity.utoronto.ca/](http://academicintegrity.utoronto.ca/)) and the Code of Behaviour on Academic Matters ([http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppjun011995.pdf](http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppjun011995.pdf)). 
 
 Students are expected to be aware of these guidelines and the related consequences. If I suspect academic misconduct, I will speak with the chair of the department, as well as the Dean, and a report written by me will be placed in your academic file detailing the circumstances. Avoid this painful hassle for everyone, manage your time wisely and do not knowingly (or ignorantly) plagiarize. If you are unclear on what constitutes plagiarism, please contact me well before the assignment is due.
 
-### Equity and Academic Rights Information
+## Equity and Academic Rights Information
 
 The University of Toronto is committed to equity and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect. As a course instructor, I will neither condone nor tolerate behaviour that undermines the dignity or self-esteem of any individual in this course and wish to be alerted to any attempt to create an intimidating or hostile environment. It is our collective responsibility to create a space that is inclusive and welcomes discussion. Discrimination, harassment and hate speech will not be tolerated. If you have any questions, comments, or concerns you may contact the [UTM Equity and Diversity officer](http://www.utm.utoronto.ca/equity-diversity/home) or the [University of Toronto Mississauga Students' Union Vice President Equity](http://utmsu.ca/contact-page/).
 
@@ -92,7 +90,7 @@ You, as a student at UTM, have the right to:
 - Privacy of your final grades.
 - Arrange for representation from Downtown Legal Services (DLS), a representative from the UTM Students' Union (UTMSU), and/or other forms of support if you are charged with an academic offence.
 
-### Semester schedule
+### Schedule
 
 <table>
     <tr>
@@ -122,7 +120,8 @@ You, as a student at UTM, have the right to:
         <td>Sept. 22</td>
         <td>NO CLASS</td>
         <td>Introduction to Python</td>
-        <td><strong>Assignment #1 due</strong></td>
+        <td><strong>Assignment #1 due</strong><br/>
+            <strong>Project abstract due</strong></td>
     </tr>
     <tr>
         <td>Sept. 29</td>
@@ -170,7 +169,7 @@ You, as a student at UTM, have the right to:
         <td>Nov. 17</td>
         <td>DV 3131</td>
         <td>Automated text analysis and social network analysis</td>
-        <td></td>
+        <td>*Mid-term report due*</td>
     </tr>
     <tr>
         <td>Nov. 27</td>
