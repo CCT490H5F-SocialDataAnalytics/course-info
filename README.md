@@ -27,7 +27,7 @@ By the end of this course, you should be able to do the following:
 
 *Attendance* - Lecture will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistant and myself.
 
-*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work.
+*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.**
 
 *Quizzes* - There will be a number of short quizzes which cover readings, coding principles, and lab activities. Quizzes will be held during the first part of lecture. You must be present in lecture to take the quiz. 
 
@@ -37,8 +37,8 @@ By the end of this course, you should be able to do the following:
 
 ### Grading
 
-- Attendance: 8%
-- Quizzes: 12%
+- Attendance: 5%
+- Quizzes: 15%
 - Assignments: 20%
 - Final exam: 20%
 - Project: 40%
@@ -96,31 +96,38 @@ You, as a student at UTM, have the right to:
     <tr>
         <th>Date</th>
         <th>Topic</th>
-        <th>Readings and assignments</th>
+        <th>Readings</th>
+        <th>Assignments</th>
     </tr>
     <tr>
         <td>Sept. 8</td>
         <td>Introduction</td>
         <td>
             - David Lazer et al. 2013. "Computational Social Science." <em>Science</em><br />
-            - Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em> <br/>
-            - Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em><br />
-            - Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em>
+            - Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Sept. 15</td>
         <td>Lab setup, introduction to Python</td>
         <td>
-            <strong>Quiz #1</strong>
+            - Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em><br />
+            - Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em>
+        </td>
+        <td>
+            - Quiz #1
         </td>
     </tr>
     <tr>
         <td>Sept. 22</td>
         <td>NO CLASS</td>
         <td>
-            - <strong>Assignment #1 due</strong><br/>
-            - <strong>Project abstract due</strong>
+            - [Readings]
+        </td>
+        <td>
+            - Assignment #1 due<br/>
+            - Project abstract due
         </td>
     </tr>
     <tr>
@@ -129,73 +136,92 @@ You, as a student at UTM, have the right to:
         <td>
             [Readings]
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Oct. 6</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            - <strong>Quiz #2</strong>
+            [Readings]
+        </td>
+        <td>
+            - Quiz #2
         </td>
     </tr>
     <tr>
         <td>Oct. 13</td>
         <td>NO CLASS - reading week</td>
         <td>
-            - <strong>Assignment #2 due</strong>
             - [Readings]
+        </td>
+        <td>
+            - Assignment #2 due
         </td>
     </tr>
     <tr>
         <td>Oct. 20</td>
         <td>Data modeling and visualisation</td>
         <td>
-            - <strong>Quiz #3</strong>
+        </td>
+        <td>
+            - Quiz #3
         </td>
     </tr>
     <tr>
         <td>Oct. 27</td>
         <td>Data modeling and visualization</td>
+        <td></td>
         <td>
-            - <strong>Project prospectus due</strong>
+            - Project prospectus due
         </td>
     </tr>
     <tr>
         <td>Nov. 3</td>
         <td>Web scraping and APIs</td>
         <td>
+            - [Readings]
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Nov. 10</td>
         <td>Web scraping and APIs</td>
+        <td></td>
         <td>
-            <strong>Assignment #3 due</strong>
+            - Assignment #3 due<br/>
+            - Quiz #4
         </td>
     </tr>
     <tr>
         <td>Nov. 17</td>
         <td>Automated text analysis and social network analysis</td>
         <td>
-            - Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em>            
-            - <strong>Mid-term report due</strong> <br/>
-            - <strong>Quiz #4</strong>
+            - Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em><br/>
+        </td>        
+        <td>
+            - Mid-term report due
         </td>
     </tr>
     <tr>
         <td>Nov. 24</td>
         <td>Automated text analysis and social network analysis</td>
+        <td></td>
         <td>
-            <strong>Assignment #4 due</strong>
+            - Assignment #4 due<br/>
+            - Quiz #5
         </td>
     </tr>
     <tr>
         <td>Dec. 1</td>
         <td>Review</td>
-        <td><strong>Final project due</strong></td>
+        <td></td>        
+        <td>Final project due</td>
     </tr>
     <tr>
         <td></td>
-        <td>FINAL EXAM - Date and Location TBD</td><td></td>
+        <td>FINAL EXAM</td>
+        <td>Date and Location TBD</td>
+        <td></td>
     </tr>
 </table>
 
