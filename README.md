@@ -6,14 +6,14 @@
 - TA: TBD
 - TA Email: TBD
 - Meetings: Thursday 11 AM - 1 PM
-- Locations: Davis 3131 and CC 3110 (Digital Media Lab)
+- Locations: DH 2010
 - Office hours: Thursday 1:15 - 3:15 PM, or by appointment
 
 ### Course Description
 
 This course highlights the research in analysis for social data and builds skills to undertake those analysis. It is a lab-intensive course intended to build up data analytic skills for novice and intermediate researchers. We start with reviews of recent studies using "big data" which are primarily theoretical, including critiques of data analytics and data ethics. We then cover several fields: health, strategic and consumer research, and politics. At the same time, we will be learning a programming language -- Python -- and learn how to scrape social data, store and collect it, run basic statistics, generate visuals, and create a report based on a project of interest.
 
-There are two types of class settings in this course. The first will be more lecture-oriented, which will take place in the Davis 3131. These sessions will focus on theoretical principles of social data analysis, on coding principles, and examples of social data analysis in the wild. The second will be in the Digital Media Lab, CC 3110. These sessions will focus on applying the knowledge learned in lecture and completing an instructional lab assignment. Given the limited space in the lab, you will be paired together with a lab partner, namely someone who has similar research interests and a complementary level of programming knowledge.
+There are two types of class settings in this course. The first will be more lecture-oriented, and these sessions will focus on theoretical principles of social data analysis, on coding principles, and examples of social data analysis in the wild. The second will be lab-oriented and focus on applying the knowledge learned in lecture and completing an instructional lab assignment. 
 
 By the end of this course, you should be able to do the following:
 
@@ -37,8 +37,8 @@ By the end of this course, you should be able to do the following:
 
 ### Grading
 
-- Attendance: 10%
-- Quizzes: 10%
+- Attendance: 8%
+- Quizzes: 12%
 - Assignments: 20%
 - Final exam: 20%
 - Project: 40%
@@ -95,98 +95,107 @@ You, as a student at UTM, have the right to:
 <table>
     <tr>
         <th>Date</th>
-        <th>Location</th>
         <th>Topic</th>
         <th>Readings and assignments</th>
     </tr>
     <tr>
         <td>Sept. 8</td>
-        <td>DV 3131</td>
-        <td>Introduction and setup</td>
+        <td>Introduction</td>
         <td>
-            - David Lazer et al., Computational Social Science <br />
-            - Kate Crawford, Artificial Intelligence's White Guy Problem <br />
+            - David Lazer et al. 2013. "Computational Social Science." <em>Science</em><br />
+            - Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em> <br/>
+            - Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em><br />
+            - Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em>
         </td>
     </tr>
     <tr>
         <td>Sept. 15</td>
-        <td>CC 3110</td>
         <td>Lab setup, introduction to Python</td>
         <td>
-            Laurie A. Williams and Robert R. Kessler, "All I Really Need to Know About Pair Programming I Learned in Kindergarten" 
+            <strong>Quiz #1</strong>
         </td>
     </tr>
     <tr>
         <td>Sept. 22</td>
         <td>NO CLASS</td>
-        <td>Introduction to Python</td>
-        <td><strong>Assignment #1 due</strong><br/>
-            <strong>Project abstract due</strong></td>
+        <td>
+            - <strong>Assignment #1 due</strong><br/>
+            - <strong>Project abstract due</strong>
+        </td>
     </tr>
     <tr>
         <td>Sept. 29</td>
-        <td>DV 3131</td>
         <td>Data cleaning and manipulation</td>
-        <td></td>
+        <td>
+            [Readings]
+        </td>
     </tr>
     <tr>
         <td>Oct. 6</td>
-        <td>CC 3110</td>
         <td>Data cleaning and manipulation</td>
-        <td></td>
+        <td>
+            - <strong>Quiz #2</strong>
+        </td>
     </tr>
     <tr>
         <td>Oct. 13</td>
         <td>NO CLASS - reading week</td>
-        <td>Data cleaning and manipulation</td>
-        <td><strong>Assignment #2 due</strong></td>
+        <td>
+            - <strong>Assignment #2 due</strong>
+            - [Readings]
+        </td>
     </tr>
     <tr>
         <td>Oct. 20</td>
-        <td>DV 3131</td>
         <td>Data modeling and visualisation</td>
-        <td></td>
+        <td>
+            - <strong>Quiz #3</strong>
+        </td>
     </tr>
     <tr>
         <td>Oct. 27</td>
-        <td>CC 3110</td>
         <td>Data modeling and visualization</td>
-        <td><strong>Project prospectus due</strong></td>
+        <td>
+            - <strong>Project prospectus due</strong>
+        </td>
     </tr>
     <tr>
         <td>Nov. 3</td>
-        <td>DV 3131</td>
         <td>Web scraping and APIs</td>
-        <td></td>
+        <td>
+        </td>
     </tr>
     <tr>
         <td>Nov. 10</td>
-        <td>CC 3110</td>
         <td>Web scraping and APIs</td>
-        <td><strong>Assignment #3 due</strong></td>
+        <td>
+            <strong>Assignment #3 due</strong>
+        </td>
     </tr>
     <tr>
         <td>Nov. 17</td>
-        <td>DV 3131</td>
         <td>Automated text analysis and social network analysis</td>
-        <td><strong>Mid-term report due</strong></td>
+        <td>
+            - Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em>            
+            - <strong>Mid-term report due</strong> <br/>
+            - <strong>Quiz #4</strong>
+        </td>
     </tr>
     <tr>
-        <td>Nov. 27</td>
-        <td>CC 3110</td>
+        <td>Nov. 24</td>
         <td>Automated text analysis and social network analysis</td>
-        <td><strong>Assignment #4 due</strong></td>
+        <td>
+            <strong>Assignment #4 due</strong>
+        </td>
     </tr>
     <tr>
         <td>Dec. 1</td>
-        <td>DV 3131</td>
         <td>Review</td>
         <td><strong>Final project due</strong></td>
     </tr>
     <tr>
-        <td>DATE TBD</td>
-        <td>LOCATION TBD</td>
-        <td>FINAL EXAM</td><td></td>
+        <td></td>
+        <td>FINAL EXAM - Date and Location TBD</td><td></td>
     </tr>
 </table>
 
