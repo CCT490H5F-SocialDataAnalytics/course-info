@@ -273,6 +273,7 @@ http://library.utm.utoronto.ca
             <ul>
                 <li>Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em></li>
                 <li>Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em></li>
+            </ul>
         </td>
         <td></td>
     </tr>
@@ -280,21 +281,29 @@ http://library.utm.utoronto.ca
         <td>Sep. 22</td>
         <td>NO CLASS</td>
         <td>
-            - Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/<br/>
-            - The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/<br/>
-            <em>Recommended</em>:<br/>
-            Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs
+            <ul>
+                <li>Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
+                <li>The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/
+            </ul>
+            <em>Recommended</em>:
+            <ul>
+                <li>Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs</li>
+            </ul>
         </td>
         <td>
-            - Assignment #1 due<br/>
-            - Project abstract due
+            <ul>
+                <li>Assignment #1 due</li>
+                <li>Project abstract due</li>
+            </ul>
         </td>
     </tr>
     <tr>
         <td>Sep. 29</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            - Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.<br/>
+            <ul>
+                <li>Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.
+            </ul>
         </td>
         <td></td>
     </tr>
@@ -302,7 +311,8 @@ http://library.utm.utoronto.ca
         <td>Oct. 6</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            - Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).
+            <ul>
+            </ul>
         </td>
         <td>
         </td>
@@ -311,9 +321,11 @@ http://library.utm.utoronto.ca
         <td>Oct. 13</td>
         <td>NO CLASS - reading week</td>
         <td>
-            - What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091<br/>
-            Recommended reading:<br/>
-
+            <ul>
+                <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
+                <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).<li>
+            </ul>
+            <em>Recommended:</em>
 
         </td>
         <td>
@@ -323,8 +335,15 @@ http://library.utm.utoronto.ca
         <td>Oct. 20</td>
         <td>Data modeling and visualisation</td>
         <td>
-            - http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/<br/>
-            Recommended game - http://guessthecorrelation.com/
+            <ul>
+                <li>http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
+                <li>Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/
+                <li>http://guessthecorrelation.com/</li>
+            </ul>
+            <em>Recommended</em>
+            <ul>
+                <li>Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.</li>
+            </ul>
         </td>
         <td>
         </td>
@@ -333,19 +352,20 @@ http://library.utm.utoronto.ca
         <td>Oct. 27</td>
         <td>Data modeling and visualization</td>
         <td>
-            - Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/<br/>
-            Recommended reading:</br>
-            - Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.
+            <ul>
+            
+            </ul>
+            <em>Recommended:</em>
         </td>
         <td>
-            - Project prospectus due
+            <li>Project prospectus due
         </td>
     </tr>
     <tr>
         <td>Nov. 3</td>
         <td>Web scraping and APIs</td>
         <td>
-            - http://doc.scrapy.org/en/latest/intro/tutorial.html
+            
         </td>
         <td></td>
     </tr>
@@ -353,41 +373,56 @@ http://library.utm.utoronto.ca
         <td>Nov. 10</td>
         <td>Web scraping and APIs</td>
         <td>
-            - MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY
+            <ul>
+                <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
+                <li>http://doc.scrapy.org/en/latest/intro/tutorial.html</li>
+            </ul>
         </td>
         <td>
-            - Assignment #3 due<br/>
+            <ul>
+                <li>Assignment #3 due</li>
+            </ul>
         </td>
     </tr>
     <tr>
         <td>Nov. 17</td>
         <td>Automated text analysis and social network analysis</td>
         <td>
-            - Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em><br/>
-            - James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.<br/>
-            Recommended reading:<br/>
-            - Justin Grimmer and Brandon Stewart. 2013. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." <em>Political Analysis</em> 1-31.
-        </td>        
+            <ul>
+                <li>Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em></li>
+                <li>James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.</li>
+                <li>Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/</li>
+            </ul>
+            <em>Recommended:</em>
+            <ul>
+                <li>Justin Grimmer and Brandon Stewart. 2013. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." <em>Political Analysis</em> 1-31.</li>
+                <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
+            </ul>
+        </td>  
         <td>
-            - Mid-term report due
+            <li>Mid-term report due
         </td>
     </tr>
     <tr>
         <td>Nov. 24</td>
         <td>Automated text analysis and social network analysis</td>
         <td>
-            - Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/<br/>
-            - Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network." 
         </td>
         <td>
-            - Assignment #4 due<br/>
+            <ul>
+                <li>Assignment #4 due</li>
+            </ul>
         </td>
     </tr>
     <tr>
         <td>Dec. 1</td>
         <td>Review</td>
         <td></td>        
-        <td>Final project due</td>
+        <td>
+            <ul>
+                <li>Final project due</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td></td>
