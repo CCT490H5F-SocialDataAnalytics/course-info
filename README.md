@@ -27,7 +27,7 @@ By the end of this course, you should be able to do the following:
 
 *Attendance* - Attendance in this class is mandatory. Classes will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistants and myself.
 
-*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.**
+*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.** For each week, there will be a list of required readings. Below that, there will be a list of recommended readings. These readings are slightly more technical, but offer a much fuller description of what is offered in the required readings. I have kept the required readings intentionally short. They are meant to supplement the main task of learning the programming methods.
 
 *Pop quizzes* - There will be a number of short pop quizzes which cover readings, coding principles, and lab activities. Quizzes will be held as soon as class starts. It is critical that you arrive to class on time. 
 
@@ -35,9 +35,7 @@ By the end of this course, you should be able to do the following:
 
 *Project* - This course is oriented such that you can design and execute research projects concerning questions of your choosing. To that end, you will be doing that exact thing in this course. At several points in the semester, there will be a milestone you must reach with the project. Early on, you'll write a short (one-page) *abstract* about your project: the question you are trying to answer, potential data sources, and types of analyses you will undertake. That will then be fleshed out into a larger (two- to three-page) *prospectus*, which describes in more detail the research question, why it is an important question, then outlines concretely the tasks for data collection, management, and finally analysis. Several weeks before the project is due, you will submit a *mid-term report* which discusses the progress of your project, the difficulties you've had thus far, and what you have left to finish. Lastly, at the end of the semester, you will submit a six- to ten-page *final report* which describes your research project in full. It should contain all graphs and figures, and have correct citations. You will also have to submit your code and the data you used.
 
-### Syllabus
-
-You should check the syllabus often for deadlines and for course requirements. The best way to start on a path to success is to read and understand this syllabus, and to keep it with your class notes and refer to it as needed. Once you've read this syllabus in full, please email me a picture of a capybara.
+*Syllabus* - You should check the syllabus often for deadlines and for course requirements. The best way to start on a path to success is to read and understand this syllabus, and to keep it with your class notes and refer to it as needed. Once you've read this syllabus in full, please email me a picture of a capybara.
 
 ### Grading
 
@@ -51,7 +49,7 @@ You should check the syllabus often for deadlines and for course requirements. T
     - Mid-term report: 5%
     - Final report: 20% 
 
-Letter grade distribution:
+### Letter grade distribution
 
     90-100  A+
     85-89   A
@@ -67,36 +65,164 @@ Letter grade distribution:
     50-52   D-
     0-49    F
 
-## Due dates
+### Due dates
 
+    Sep 22 - Assignment 1
+    Sep 22 - Project abstract
+    Oct 13 - Assignment 2
+    Oct 27 - Project prospectus
+    Nov 10 - Assignment 3
+    Nov 17 - Midterm report
+    Nov 24 - Assignment 4
+    Dec 1  - Final report
 
+## Procedures and Rules
+
+### E-Culture Policy
+
+Only student U of T email accounts should be used for course communication and all emails from students must include the course code in the subject line and should be signed with the full student name and student number.
+
+In lab, we will be using computers throughout class. There's always the temptation to use computers for your own personal tasks or entertainment. However, lab time is limited, and this course relies heavily on using that lab time for instruction. I won't police your use of these sites, but it would behoove you to use class time for following the lab assignment.
+
+It is your responsibility to read your U of T email on a regular basis. This will ensure that you receive important information from your instructors and the university.
+
+### Learning Technology
+
+This course will take you into computer programming, and the resources out there for programming, especially programming Python, are endless. I encourage you to take advantage of the website Stack Overflow (http://stackoverflow.com/) to find some answers to particular programming questions. These communities can be an invaluable resource and have large banks of answers to common programming questions. However, make sure you are not just copying and pasting code you find on the web. This is a violation of academic integrity. 
+
+You should submit all assignments and components of the report through the UofT online Learning Portal. 
+
+### Late assignments, Extensions
+
+*A. Late Penalties*
+You are expected to complete assignments on time. There will be a penalty for lateness of 10% deducted per day and work that is not handed in one week after the due date will not be accepted.
+
+*B. Requesting an Extension*
+If you require more time to complete term work you should contact your instructor immediately in writing (email is acceptable), and ideally well before the due date. Extensions up to one week past the original due date may be granted. Students who fail to submit the late work by the new due date will have 10% per day applied to their work when it is finally submitted.
+
+A [Special Consideration Form](https://www.utm.utoronto.ca/iccit/students/forms) explaining the reason for the extension request must be submitted to Academic Advisor, Rose Antonio (CCT3018), with original supporting documentation (e.g. [U of T Verification of Student Illness or Injury](http://www.illnessverification.utoronto.ca/), accident report, death certificate or other documentation confirming non-medical extenuating circumstances), no later than 72 hours after the due date.
+
+Note that holidays, family plans or trips (unless critical in nature), lack of preparation, poor time budgeting or scheduling conflicts with outside work and other courses, are not acceptable reasons for an extension. Should you have a compelling reason to request an extension outside of documented contingencies, your request may be granted at the discretion of your instructor. Such accommodations are more likely to be granted if they are done well before the assignment due date.
+
+In addition, students are required to declare any absence on [ACORN](http://www.acorn.utoronto.ca/) on the day of their absence (or by the day after, at the latest) in order to receive academic accommodation. Absences include those due to illness, death in the family, religious accommodation or other circumstances beyond their control.
+
+*C. Documentation* 
+The Verification of Student Illness or Injury form and Special Consideration Form are available at https://www.utm.utoronto.ca/iccit/students/forms.
+
+The Verification of Student Illness or Injury form must be completed by a Licensed Practitioner based on examination and applicable documented history at the time of illness or injury, not after the fact. Completion of this form does not guarantee that special consideration will be granted. Incomplete forms will not be processed. In some appeal situations, the University may require additional information from you or your practitioner to decide whether or not to grant or confirm special consideration. If you have questions about the Verification of Student Illness or Injury form, please visit http://www.illnessverification.utoronto.ca/.
+
+## Re-marking Pieces of Term Work
+
+*General*
+A student who believes that his or her written term work has been unfairly marked may ask the person who marked the work for re-evaluation. Students have up to one month from the date of return of an item of term work or from the date the mark was made available to inquire about the mark and file for an appeal. For example, should the work be returned or the mark be made available on March 3rd, the student has until April 3rd to inquire in writing and start the re-marking process. Instructors must acknowledge receipt of a student request for re-marking within 3-working days, and decisions should be provided in a timely fashion.
+
+If an academic misconduct case is in progress for the piece of term work in question, a student may not appeal until the matter is resolved.
+
+*Details*
+*Regrade requests for term work worth less than 20%* of the final mark may be submitted to the person who marked the work for re-evaluation. The student must submit (1) the original piece of work and (2) a written explanation detailing why they believe the work was unfairly/incorrectly marked. If the student is not satisfied with this re-evaluation, he or she may appeal to the instructor in charge of the course if the work was not marked by the instructor (e.g., was marked by a TA). In these instances where the instructor was not the one who marked the work, the student must now submit to the instructor (1) the original piece of work, (2) the written reasons as to why he or she believes the work was unfairly/incorrectly marked, and (3) communications from the original marker as to why no change in mark was made. If a re-marking is granted by an instructor, the student must accept the resulting mark as the new mark, whether it goes up or down or remains the same. Continuing with the remark or the appeal means the student accepts this condition. Instructors and TAs should ensure all communication with the student is in writing (e.g. follow-up email) and keep a copy for later reference.
+
+*Only term work worth at least 20%* of the course mark may be appealed beyond the instructor. Such appeals must first follow the same guidelines as those mentioned directly above for work worth less than 20%. To escalate an appeal beyond the instructor, the student must submit to the [department](https://www.utm.utoronto.ca/iccit/contact/iccit) (1) all previous communications between the student, original marker, and the instructor (2) the detailed reason(s) documenting why the mark for the work was inappropriate and (3) the original piece of work. If the department believes that re-marking is justified, the department shall select an independent reader. The student must agree in writing to be bound by the results of the re-reading process or abandon the appeal. Again, the student must accept that the mark resulting from the appeal may be higher or lower or the same as the original mark. Where possible, the independent reader should be given a clean, anonymous copy of the work. Without knowing the original assigned mark, the reader shall determine a mark for the work. The marking of the work should be considered within the context of the course of instruction for which it was submitted. If the new mark differs substantially from the original mark, the department shall determine a final mark taking into account both available marks.
+
+The final level of appeal is to the [Dean's Office](https://www.utm.utoronto.ca/dean/contact). Appeals must already have been considered at the two previous levels (Instructor followed by Department), with the decision reviewed by the head of the academic unit, before they will be considered by the Dean’s Office. Appeals must be submitted in writing, and include all previous correspondence, as soon as possible after the student receives the final response from the academic unit, but no later than one month after. Appeals to the Dean’s Office about the marking of term work will be reviewed to ensure that appropriate procedures have been followed in earlier appeals, that the student has been treated fairly, and that the standards applied have been consistent with those applied to other students doing the assignment. Any mark resulting from such an appeal will become the new mark, whether it is higher or lower or the same as the previous one. This process applies only to term work; appeals for re-reads of final examinations are handled directly by the Office of the Registrar.
+
+### Issues Pertaining to Term Work and Instructional Activities
+
+Issues arising within a course that concern the pedagogical relationship of the instructor and the student, such as essays, term work, term tests, grading practices, or conduct of instructors, fall within the authority of the department. Students are entitled to seek resolution of these issues, either orally or in writing to the course instructor and, if needed, the [ICCIT Director](https://www.utm.utoronto.ca/iccit/contact/iccit) for resolution.
+
+Following a response from the ICCIT Director, students may submit an appeal, in writing, to the [Vice-Principal, Academic and Dean](https://www.utm.utoronto.ca/dean/contact).
+
+### Missed Term Tests and Quizzes
+
+*A. Missed Term Tests and Quizzes* 
+Students who miss a term test/quiz will be assigned a mark of zero for that test/quiz unless they are granted special consideration.
+
+If the term test/quiz was missed for reasons entirely beyond the student's control, a Special Consideration Form explaining the reason for missing the test/quiz must be submitted to Academic Advisor, Rose Antonio (CCT3018), with original supporting documentation (e.g. U of T Verification of Student Illness or Injury, accident report, death certificate or other documentation confirming non-medical extenuating circumstances), within one week of the missed test. The department will review such requests and students whose requests are approved will be contacted by the instructor.
+
+In addition, students who miss a term test/quiz must declare their absence on ACORN the day of the test/quiz (or by the day after at the latest) in order to receive academic accommodation. Absences include those due to illness, death in the family, religious accommodation or other circumstances beyond their control.
+
+*B. Missed Term Test/Quiz Make-up*
+Students will be informed of the make-up date via email once they have received approval from the CCIT Academic Advisor. Students will write the test within 2 weeks of the original test/quiz. While attempts will be made to provide 5-7 days of notice before the test, please note that sometimes it is not possible and students should therefore be prepared for the make-up test/quiz at any time. There is no opportunity to defer a term test/quiz.
+
+*C. Documentation*
+The Verification of Student Illness or Injury form and Special Consideration Form are available at https://www.utm.utoronto.ca/iccit/students/forms.
+
+The Verification of Student Illness or Injury form must be completed by a Licensed Practitioner based on examination and applicable documented history at the time of illness or injury, not after the fact. Completion of this form does not guarantee that special consideration will be granted. Incomplete forms will not be processed. In some appeal situations, the University may require additional information from you or your practitioner to decide whether or not to grant or confirm special consideration. If you have questions about the Verification of Student Illness or Injury form, please visit http://www.illnessverification.utoronto.ca/.
+
+*D. Special Consideration Form*
+You are responsible for providing an accurate phone number and email address on your Special Consideration Form. It is your responsibility to obtain the decision from the department. Claims that a departmental decision was not received will not be considered as reason for further consideration.
+
+Pop quizzes will not be 
+
+### Missed Final Exam
+
+Final examinations are scheduled, administered and governed by the policies set by the Office of the Registrar. Any student that is granted a deferral by the Office of the Registrar will be required to write a deferred examination at the next exam-writing session scheduled by the Office of the Registrar. Students should note that the deferred exam may not follow the same format as the exam given in the regular writing session.
+
+Students who cannot write a final examination due to illness or other serious causes must file an [online petition](http://www.utm.utoronto.ca/registrar/current-students/petitions) within 72 hours of the missed examination. Original supporting documentation must also be submitted to the Office of the Registrar within 72 hours of the missed exam. Late petitions will NOT be considered. If illness is cited as the reason for a deferred exam request, a U of T Verification of Student Illness or Injury Form must show that you were examined and diagnosed at the time of illness and on the date of the exam, or by the day after at the latest. Students must also record their absence on ROSI on the day of the missed exam or by the day after at the latest. Upon approval of a deferred exam request, a non-refundable fee of $70 is required for each examination approved.
 
 ## Academic Integrity
 
-I understand that as the semester progresses, you will no doubt be juggling multiple class assignments, studying for exams, part-time paid work, and campus/community activism. This added stress can affect your well-being, emotions, and school performance. Therefore, time management early in the semester is part of the key to success in college. Avoid cutting corners and especially, avoid any type of behaviour (such as copying and pasting material from the internet without proper citation) that can be interpreted as plagiarism and academic misconduct. A clear definition of academic integrity as well as information about disciplinary sanctions for academic misconduct may be found at the University of Toronto Academic Integrity website ([http://academicintegrity.utoronto.ca/](http://academicintegrity.utoronto.ca/)) and the Code of Behaviour on Academic Matters ([http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppjun011995.pdf](http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppjun011995.pdf)). 
+Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the University of Toronto is a strong signal of each student’s individual academic achievement. As a result, the University treats cases of cheating and plagiarism very seriously. The University of Toronto’s Code of Behaviour on Academic Matters (www.governingcouncil.utoronto.ca/policies/behaveac.htm) outlines the behaviours that constitute academic dishonesty and the processes for addressing academic offences. Potential offences include, but are not limited to:
 
-Students are expected to be aware of these guidelines and the related consequences. If I suspect academic misconduct, I will speak with the chair of the department, as well as the Dean, and a report written by me will be placed in your academic file detailing the circumstances. Avoid this painful hassle for everyone, manage your time wisely and do not knowingly (or ignorantly) plagiarize. If you are unclear on what constitutes plagiarism, please contact me well before the assignment is due.
+In papers and assignments:
+- Using someone else’s ideas or words without appropriate acknowledgement.
+- Submitting your own work in more than one course without the permission of the instructor.
+- Making up sources or facts.
+- Obtaining or providing unauthorized assistance on any assignment.
 
-## Equity and Academic Rights Information
+On tests and exams:
+
+- Using or possessing unauthorized aids.
+- Looking at someone else’s answers during an exam or test.
+- Misrepresenting your identity.
+
+In academic work:
+
+- Falsifying institutional documents or grades.
+- Falsifying or altering any documentation required by the University, including (but not limited to) doctor’s notes.
+
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on Academic Matters. You are instructed to read the following for more information: http://www.utm.utoronto.ca/academic-integrity/office-dean-academic-integrity and http://academicintegrity.utoronto.ca/).
+
+### Expectations for Conduct in the Academic Setting
+
+Students agree that by taking this course, they agree to adhere to the ICCIT Expectations for Conduct in the Academic Setting set out at https://www.utm.utoronto.ca/iccit/students/policies-procedures/code-conduct.
+
+### Copyright in Instructional Settings
+
+If a student wishes to tape-record, photograph, video-record or otherwise reproduce lecture presentations, course notes or other similar materials provided by instructors, he or she must obtain the instructor’s written consent beforehand. Otherwise all such reproduction is an infringement of copyright and is absolutely prohibited. In the case of private use by students with disabilities, the instructor’s consent will not be unreasonably withheld.
+
+For more information on copyright and the University of Toronto, please visit https://onesearch.library.utoronto.ca/copyright/copyright.
+
+### Equity and Academic Rights Information
 
 The University of Toronto is committed to equity and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect. As a course instructor, I will neither condone nor tolerate behaviour that undermines the dignity or self-esteem of any individual in this course and wish to be alerted to any attempt to create an intimidating or hostile environment. It is our collective responsibility to create a space that is inclusive and welcomes discussion. Discrimination, harassment and hate speech will not be tolerated. If you have any questions, comments, or concerns you may contact the [UTM Equity and Diversity officer](http://www.utm.utoronto.ca/equity-diversity/home) or the [University of Toronto Mississauga Students' Union Vice President Equity](http://utmsu.ca/contact-page/).
 
-You, as a student at UTM, have the right to:
+### Religious Observance
 
-- Obtain a course syllabus either through accessing a copy on Blackboard, through the UTM Academic Timetable, Office of the Registrar website or one will be provided by the instructor. The course syllabus may be provided at the start of the course and absolutely no later than the last date to add courses.
-- Rely upon a course syllabus. An instructor may only change marks' assignments by following the University Assessment and Grading Practices Policy provision 1.32.
-- Refuse to use turnitin.com (you must be offered an alternative form of submission).
-- Have access to your instructor for consultation during a course or follow up with the department chair if the instructor is unavailable.
-- Ask the person who marked your term work for a re-evaluation if you feel it was not fairly graded. You have up to one month from the date of return of the item to inquire about the mark. If you are not satisfied with a re-evaluation, you may appeal to the instructor in charge of the course if the instructor did not mark the work. If your work is remarked, you must accept the resulting mark. You may only appeal a mark beyond the instructor if the term work was worth at least 20% of the course mark.
-- Receive at least one significant mark (15% for H courses, 25% for Y courses) before the last day you can drop a course for H courses, and the last day of classes in the first week of January for Y courses taught in the Fall/Winter terms.
-- Submit handwritten essays so long as they are neatly written.
-- Have no assignment worth 100% of your final grade.
-- Not have a term test worth 25% or more in the last two weeks of class.
-- Retain intellectual property rights to your research.
-- Receive all your assignments once graded.
-- View your final exams. To see a final exam, you must submit an online Exam Reproduction Request within 6 months of the exam. There is a small non-refundable fee.
-- Privacy of your final grades.
-- Arrange for representation from Downtown Legal Services (DLS), a representative from the UTM Students' Union (UTMSU), and/or other forms of support if you are charged with an academic offence.
+Information about the University's Policy on Scheduling of Classes and Examinations and Other Accommodations for Religious Observances is at http://www.viceprovoststudents.utoronto.ca/publicationsandpolicies/guidelines/religiousobservances.htm
+
+U of T Mississauga students are required to declare their absence from a class, for any reason, through their ACORN accounts in order to receive academic accommodation for any course work such as missed tests, late assignments, and final examinations. Absences include those due to illness, death in the family, religious accommodation or other circumstances beyond their control.
+
+In addition, students must also follow the absence policies of the department and the instructor, which may require additional documentation.
+
+### Other Resources
+
+*AccessAbility*
+The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code, including those who have a physical, sensory, or learning disability, mental health condition, acquired brain injury, or chronic health condition, be it visible or hidden.
+
+If you have a disability or health consideration that may require accommodations, please approach the AccessAbility Resource Centre as soon as possible. The AccessAbility staff are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
+
+To register with AccessAbility*, please call the centre at 905-569-4699 or e-mail access.utm@utoronto.ca. 
+http://www.utm.utoronto.ca/access/
+
+*Students attending Sheridan-based courses with accommodation needs must register with the AccessAbility Resources Centre at UTM and the Accessible Learning Services at Sheridan College. For assistance at Sheridan, please contact Accessible Learning Services at 905-845-9430, ext. 2530 or trafalgar.als@sheridancollege.ca. For more information, please visit: https://www.sheridancollege.ca/life-at-sheridan/student-services/accessible-learning-services.aspx.
+
+*Robert Gillespie Academic Skills Centre*
+The centre offers wide-ranging support to help students identify and develop the academic skills they need for success in their studies, including: understanding learning styles; essay and report writing; time management; lecture-listening; note-taking; and studying for tests and exams.
+http://www.utm.utoronto.ca/asc
+
+*UTM Library (Hazel McCallion Academic Learning Centre)*
+The UTM library provides access to a vast collection of online and print resources to faculty, staff, and students. Various services are available to students, including borrowing, interlibrary loans, online references, research help, laptop loans and the RBC Learning Commons.
+http://library.utm.utoronto.ca
 
 ### Schedule
 
@@ -131,10 +257,9 @@ You, as a student at UTM, have the right to:
         <td>NO CLASS</td>
         <td>
             - Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/<br/>
-            - The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/
-            <em>Additional reading</em>:
+            - The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/<br/>
+            <em>Additional reading</em>:<br/>
             Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs
-            - [Readings: description of Python]
         </td>
         <td>
             - Assignment #1 due<br/>
@@ -145,8 +270,7 @@ You, as a student at UTM, have the right to:
         <td>Sept. 29</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            [Readings: one article in method, another in application]
-            - Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.
+            - Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.<br/>
         </td>
         <td></td>
     </tr>
@@ -154,7 +278,7 @@ You, as a student at UTM, have the right to:
         <td>Oct. 6</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            [Readings]
+            - Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).
         </td>
         <td>
         </td>
@@ -163,16 +287,19 @@ You, as a student at UTM, have the right to:
         <td>Oct. 13</td>
         <td>NO CLASS - reading week</td>
         <td>
-            - [Readings]
+            - What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091<br/>
+            Additional reading:<br/>
+
         </td>
         <td>
-            - Assignment #2 due
         </td>
     </tr>
     <tr>
         <td>Oct. 20</td>
         <td>Data modeling and visualisation</td>
         <td>
+            - http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/<br/>
+            Additional game - http://guessthecorrelation.com/
         </td>
         <td>
         </td>
@@ -180,7 +307,11 @@ You, as a student at UTM, have the right to:
     <tr>
         <td>Oct. 27</td>
         <td>Data modeling and visualization</td>
-        <td></td>
+        <td>
+            - Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/<br/>
+            Additional reading:</br>
+            - Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.
+        </td>
         <td>
             - Project prospectus due
         </td>
@@ -189,14 +320,16 @@ You, as a student at UTM, have the right to:
         <td>Nov. 3</td>
         <td>Web scraping and APIs</td>
         <td>
-            - [Readings]
+            - http://doc.scrapy.org/en/latest/intro/tutorial.html
         </td>
         <td></td>
     </tr>
     <tr>
         <td>Nov. 10</td>
         <td>Web scraping and APIs</td>
-        <td></td>
+        <td>
+            - MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY
+        </td>
         <td>
             - Assignment #3 due<br/>
         </td>
@@ -206,6 +339,9 @@ You, as a student at UTM, have the right to:
         <td>Automated text analysis and social network analysis</td>
         <td>
             - Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em><br/>
+            - James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.<br/>
+            Additional reading:<br/>
+            - Justin Grimmer and Brandon Stewart. 2013. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." <em>Political Analysis</em> 1-31.
         </td>        
         <td>
             - Mid-term report due
@@ -214,7 +350,10 @@ You, as a student at UTM, have the right to:
     <tr>
         <td>Nov. 24</td>
         <td>Automated text analysis and social network analysis</td>
-        <td></td>
+        <td>
+            - Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/<br/>
+            - Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network." 
+        </td>
         <td>
             - Assignment #4 due<br/>
         </td>
