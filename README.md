@@ -5,15 +5,15 @@
 - Office: CC 3080
 - TA: TBD
 - TA Email: TBD
-- Meetings: Thursday 11 AM - 1 PM
-- Locations: DH 2010
+- Meetings: Thursday 8:45 AM - 10:45 AM
+- Location: DH 2010
 - Office hours: Thursday 1:15 - 3:15 PM, or by appointment
 
 ### Course Description
 
 This course highlights the research in analysis for social data and builds skills to undertake those analysis. It is a lab-intensive course intended to build up data analytic skills for novice and intermediate researchers. We start with reviews of recent studies using "big data" which are primarily theoretical, including critiques of data analytics and data ethics. We then cover several fields: health, strategic and consumer research, and politics. At the same time, we will be learning a programming language -- Python -- and learn how to scrape social data, store and collect it, run basic statistics, generate visuals, and create a report based on a project of interest.
 
-There are two types of class settings in this course. The first will be more lecture-oriented, and these sessions will focus on theoretical principles of social data analysis, on coding principles, and examples of social data analysis in the wild. The second will be lab-oriented and focus on applying the knowledge learned in lecture and completing an instructional lab assignment. 
+This course will be substantive as well as hands on. In lecture, we will focus on both theoretical principles of social data analysis, on coding principles, and examples of social data analysis in the wild. This will also be lab-oriented, in which we focus on applying the knowledge learned in lecture and completing lab assignments. 
 
 By the end of this course, you should be able to do the following:
 
@@ -25,15 +25,19 @@ By the end of this course, you should be able to do the following:
 
 ## Course Requirements
 
-*Attendance* - Lecture will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistant and myself.
+*Attendance* - Attendance in this class is mandatory. Classes will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistants and myself.
 
 *Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.**
 
-*Quizzes* - There will be a number of short quizzes which cover readings, coding principles, and lab activities. Quizzes will be held during the first part of lecture. You must be present in lecture to take the quiz. 
+*Pop quizzes* - There will be a number of short pop quizzes which cover readings, coding principles, and lab activities. Quizzes will be held as soon as class starts. It is critical that you arrive to class on time. 
 
 *Exams* - There will be a comprehensive final exam which will focus on social science research and coding principles. The final exam will occur during the usual final exam period. It will be a mix of multiple choice and open-ended questions.
 
 *Project* - This course is oriented such that you can design and execute research projects concerning questions of your choosing. To that end, you will be doing that exact thing in this course. At several points in the semester, there will be a milestone you must reach with the project. Early on, you'll write a short (one-page) *abstract* about your project: the question you are trying to answer, potential data sources, and types of analyses you will undertake. That will then be fleshed out into a larger (two- to three-page) *prospectus*, which describes in more detail the research question, why it is an important question, then outlines concretely the tasks for data collection, management, and finally analysis. Several weeks before the project is due, you will submit a *mid-term report* which discusses the progress of your project, the difficulties you've had thus far, and what you have left to finish. Lastly, at the end of the semester, you will submit a six- to ten-page *final report* which describes your research project in full. It should contain all graphs and figures, and have correct citations. You will also have to submit your code and the data you used.
+
+### Syllabus
+
+You should check the syllabus often for deadlines and for course requirements. The best way to start on a path to success is to read and understand this syllabus, and to keep it with your class notes and refer to it as needed. Once you've read this syllabus in full, please email me a picture of a capybara.
 
 ### Grading
 
@@ -62,6 +66,10 @@ Letter grade distribution:
     53-56   D
     50-52   D-
     0-49    F
+
+## Due dates
+
+
 
 ## Academic Integrity
 
@@ -102,28 +110,31 @@ You, as a student at UTM, have the right to:
     <tr>
         <td>Sept. 8</td>
         <td>Introduction</td>
-        <td>
-            - David Lazer et al. 2013. "Computational Social Science." <em>Science</em><br />
-            - Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em>
-        </td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
         <td>Sept. 15</td>
         <td>Lab setup, introduction to Python</td>
         <td>
+            - David Lazer, et al. 2013. "Computational Social Science." <em>Science</em><br />
+            - David Lazer, et al. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." <em>Science</em><br /> 
+            - Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em><br/>
+            <em>Additional reading</em>:
+            - Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em><br/>
             - Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em><br />
-            - Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em>
         </td>
-        <td>
-            - Quiz #1
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td>Sept. 22</td>
         <td>NO CLASS</td>
         <td>
-            - [Readings]
+            - Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/<br/>
+            - The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/
+            <em>Additional reading</em>:
+            Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs
+            - [Readings: description of Python]
         </td>
         <td>
             - Assignment #1 due<br/>
@@ -134,7 +145,8 @@ You, as a student at UTM, have the right to:
         <td>Sept. 29</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            [Readings]
+            [Readings: one article in method, another in application]
+            - Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.
         </td>
         <td></td>
     </tr>
@@ -145,7 +157,6 @@ You, as a student at UTM, have the right to:
             [Readings]
         </td>
         <td>
-            - Quiz #2
         </td>
     </tr>
     <tr>
@@ -164,7 +175,6 @@ You, as a student at UTM, have the right to:
         <td>
         </td>
         <td>
-            - Quiz #3
         </td>
     </tr>
     <tr>
@@ -189,7 +199,6 @@ You, as a student at UTM, have the right to:
         <td></td>
         <td>
             - Assignment #3 due<br/>
-            - Quiz #4
         </td>
     </tr>
     <tr>
@@ -208,7 +217,6 @@ You, as a student at UTM, have the right to:
         <td></td>
         <td>
             - Assignment #4 due<br/>
-            - Quiz #5
         </td>
     </tr>
     <tr>
