@@ -261,25 +261,28 @@ http://library.utm.utoronto.ca
         <td></td>
     </tr>
     <tr>
-        <td>Sept. 15</td>
+        <td>Sep. 15</td>
         <td>Lab setup, introduction to Python</td>
         <td>
-            - David Lazer, et al. 2013. "Computational Social Science." <em>Science</em><br />
-            - David Lazer, et al. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." <em>Science</em><br /> 
-            - Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em><br/>
-            <em>Additional reading</em>:
-            - Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em><br/>
-            - Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em><br />
+            <ul>
+                <li>David Lazer, et al. 2013. "Computational Social Science." <em>Science</em></li>
+                <li>David Lazer, et al. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." <em>Science</em></li>
+                <li>Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em></li>
+            </ul>        
+            <em>Recommended</em>:
+            <ul>
+                <li>Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em></li>
+                <li>Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em></li>
         </td>
         <td></td>
     </tr>
     <tr>
-        <td>Sept. 22</td>
+        <td>Sep. 22</td>
         <td>NO CLASS</td>
         <td>
             - Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/<br/>
             - The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/<br/>
-            <em>Additional reading</em>:<br/>
+            <em>Recommended</em>:<br/>
             Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs
         </td>
         <td>
@@ -288,7 +291,7 @@ http://library.utm.utoronto.ca
         </td>
     </tr>
     <tr>
-        <td>Sept. 29</td>
+        <td>Sep. 29</td>
         <td>Data cleaning and manipulation</td>
         <td>
             - Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.<br/>
@@ -309,7 +312,7 @@ http://library.utm.utoronto.ca
         <td>NO CLASS - reading week</td>
         <td>
             - What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091<br/>
-            Additional reading:<br/>
+            Recommended reading:<br/>
 
 
         </td>
@@ -321,7 +324,7 @@ http://library.utm.utoronto.ca
         <td>Data modeling and visualisation</td>
         <td>
             - http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/<br/>
-            Additional game - http://guessthecorrelation.com/
+            Recommended game - http://guessthecorrelation.com/
         </td>
         <td>
         </td>
@@ -331,7 +334,7 @@ http://library.utm.utoronto.ca
         <td>Data modeling and visualization</td>
         <td>
             - Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/<br/>
-            Additional reading:</br>
+            Recommended reading:</br>
             - Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.
         </td>
         <td>
@@ -362,7 +365,7 @@ http://library.utm.utoronto.ca
         <td>
             - Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em><br/>
             - James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.<br/>
-            Additional reading:<br/>
+            Recommended reading:<br/>
             - Justin Grimmer and Brandon Stewart. 2013. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." <em>Political Analysis</em> 1-31.
         </td>        
         <td>
