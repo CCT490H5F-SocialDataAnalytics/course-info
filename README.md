@@ -245,7 +245,7 @@ http://www.utm.utoronto.ca/asc
 The UTM library provides access to a vast collection of online and print resources to faculty, staff, and students. Various services are available to students, including borrowing, interlibrary loans, online references, research help, laptop loans and the RBC Learning Commons.
 http://library.utm.utoronto.ca
 
-### Schedule
+## Schedule
 
 <table>
     <tr>
@@ -302,7 +302,8 @@ http://library.utm.utoronto.ca
         <td>Data cleaning and manipulation</td>
         <td>
             <ul>
-                <li>Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.
+                <li>Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.</li>
+                <li>Eytan Bakshy, et al. 2015. "Exposure to ideologically diverse news and opinion on Facebook." <em>Science</em>. 348(6239): 1130-32.</li>
             </ul>
         </td>
         <td></td>
@@ -323,7 +324,9 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
-                <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).<li>
+                <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).</li>
+                <li>K. Namkoong, et al. 2013. "The effects of expression: how providing emotional support online improves cancer patients' coping strategies." <em>Journal of the National Cancer Institute Monographs</em>, 2013(47), 169.</li>
+                <li>http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>               
             </ul>
             <em>Recommended:</em>
 
@@ -336,7 +339,6 @@ http://library.utm.utoronto.ca
         <td>Data modeling and visualisation</td>
         <td>
             <ul>
-                <li>http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
                 <li>Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/
                 <li>http://guessthecorrelation.com/</li>
             </ul>
@@ -352,20 +354,18 @@ http://library.utm.utoronto.ca
         <td>Oct. 27</td>
         <td>Data modeling and visualization</td>
         <td>
-            <ul>
-            
-            </ul>
-            <em>Recommended:</em>
         </td>
         <td>
-            <li>Project prospectus due
+            <li>Project prospectus due</li>
         </td>
     </tr>
     <tr>
         <td>Nov. 3</td>
         <td>Web scraping and APIs</td>
         <td>
-            
+            <ul>
+               <li>Dhavan V. Shah, et al. 2015. "The Power of Television Images in a Social Media Age Linking Biobehavioral and Computational Approaches via the Second Screen." <em>The ANNALS of the American Academy of Political and Social Science</em> 659(1): 225-245.</li>
+            </ul>
         </td>
         <td></td>
     </tr>
@@ -375,7 +375,10 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
-                <li>http://doc.scrapy.org/en/latest/intro/tutorial.html</li>
+            </ul>
+            <em>Recommended:</em>
+            <ul>
+                <li>Scrapy tutorial. http://doc.scrapy.org/en/latest/intro/tutorial.html</li>
             </ul>
         </td>
         <td>
@@ -390,13 +393,13 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em></li>
-                <li>James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.</li>
                 <li>Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/</li>
+                <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
             </ul>
             <em>Recommended:</em>
             <ul>
+                <li>James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.</li>                
                 <li>Justin Grimmer and Brandon Stewart. 2013. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." <em>Political Analysis</em> 1-31.</li>
-                <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
             </ul>
         </td>  
         <td>
