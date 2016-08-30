@@ -8,6 +8,7 @@
 - Meetings: Thursday 8:45 AM - 10:45 AM
 - Location: DH 2010
 - Office hours: Thursday 1:15 - 3:15 PM, or by appointment
+- Course website: https://github.com/CCT490H5F-SocialDataAnalytics
 
 ### Course Description
 
@@ -25,17 +26,29 @@ By the end of this course, you should be able to do the following:
 
 ## Course Requirements
 
-*Attendance* - Attendance in this class is mandatory. Classes will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistants and myself.
+**Attendance**
 
-*Reading* - There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.** For each week, there will be a list of required readings. Below that, there will be a list of recommended readings. These readings are slightly more technical, but offer a much fuller description of what is offered in the required readings. I have kept the required readings intentionally short. They are meant to supplement the main task of learning the programming methods.
+Attendance in this class is mandatory. Classes will be the primary space where we cover materials on quizzes and the final exam. In addition, this is a *lab-intensive* course, which means that I expect you to learn primarily through writing the code yourself. For those reasons, it is important for you to attend class, learn the material, and get experience programming different types of exercises. Take advantage of lab time, since it will be the best place to get help from the teaching assistants and myself.
 
-*Pop quizzes* - There will be a number of short pop quizzes which cover readings, coding principles, and lab activities. Quizzes will be held as soon as class starts. It is critical that you arrive to class on time. 
+**Reading**
 
-*Exams* - There will be a comprehensive final exam which will focus on social science research and coding principles. The final exam will occur during the usual final exam period. It will be a mix of multiple choice and open-ended questions.
+There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.** For each week, there will be a list of required readings. Below that, there will be a list of recommended readings. These readings are slightly more technical, but offer a much fuller description of what is offered in the required readings. I have kept the required readings intentionally short. They are meant to supplement the main task of learning the programming methods.
 
-*Project* - This course is oriented such that you can design and execute research projects concerning questions of your choosing. To that end, you will be doing that exact thing in this course. At several points in the semester, there will be a milestone you must reach with the project. Early on, you'll write a short (one-page) *abstract* about your project: the question you are trying to answer, potential data sources, and types of analyses you will undertake. That will then be fleshed out into a larger (two- to three-page) *prospectus*, which describes in more detail the research question, why it is an important question, then outlines concretely the tasks for data collection, management, and finally analysis. Several weeks before the project is due, you will submit a *mid-term report* which discusses the progress of your project, the difficulties you've had thus far, and what you have left to finish. Lastly, at the end of the semester, you will submit a six- to ten-page *final report* which describes your research project in full. It should contain all graphs and figures, and have correct citations. You will also have to submit your code and the data you used.
+**Pop quizzes**
 
-*Syllabus* - You should check the syllabus often for deadlines and for course requirements. The best way to start on a path to success is to read and understand this syllabus, and to keep it with your class notes and refer to it as needed. Once you've read this syllabus in full, please email me a picture of a capybara.
+There will be a number of short pop quizzes which cover readings, coding principles, and lab activities. Quizzes will be held as soon as class starts. It is critical that you arrive to class on time. 
+
+**Exams**
+
+There will be a comprehensive final exam which will focus on social science research and coding principles. The final exam will occur during the usual final exam period. It will be a mix of multiple choice and open-ended questions.
+
+**Project**
+
+This course is oriented such that you can design and execute research projects concerning questions of your choosing. To that end, you will be doing that exact thing in this course. At several points in the semester, there will be a milestone you must reach with the project. Early on, you'll write a short (one-page) *abstract* about your project: the question you are trying to answer, potential data sources, and types of analyses you will undertake. That will then be fleshed out into a larger (two- to three-page) *prospectus*, which describes in more detail the research question, why it is an important question, then outlines concretely the tasks for data collection, management, and finally analysis. Several weeks before the project is due, you will submit a *mid-term report* which discusses the progress of your project, the difficulties you've had thus far, and what you have left to finish. Lastly, at the end of the semester, you will submit a six- to ten-page *final report* which describes your research project in full. It should contain all graphs and figures, and have correct citations. You will also have to submit your code and the data you used.
+
+**Syllabus**
+
+You should check the syllabus often for deadlines and for course requirements. The best way to start on a path to success is to read and understand this syllabus, and to keep it with your class notes and refer to it as needed. Once you've read this syllabus in full, please email me a picture of a capybara.
 
 ### Grading
 
@@ -94,10 +107,12 @@ You should submit all assignments and components of the report through the UofT
 
 ### Late assignments, Extensions
 
-*A. Late Penalties*
+**A. Late Penalties**
+
 You are expected to complete assignments on time. There will be a penalty for lateness of 10% deducted per day and work that is not handed in one week after the due date will not be accepted.
 
-*B. Requesting an Extension*
+**B. Requesting an Extension**
+
 If you require more time to complete term work you should contact your instructor immediately in writing (email is acceptable), and ideally well before the due date. Extensions up to one week past the original due date may be granted. Students who fail to submit the late work by the new due date will have 10% per day applied to their work when it is finally submitted.
 
 A [Special Consideration Form](https://www.utm.utoronto.ca/iccit/students/forms) explaining the reason for the extension request must be submitted to Academic Advisor, Rose Antonio (CCT3018), with original supporting documentation (e.g. [U of T Verification of Student Illness or Injury](http://www.illnessverification.utoronto.ca/), accident report, death certificate or other documentation confirming non-medical extenuating circumstances), no later than 72 hours after the due date.
@@ -106,22 +121,23 @@ Note that holidays, family plans or trips (unless critical in nature), lack of p
 
 In addition, students are required to declare any absence on [ACORN](http://www.acorn.utoronto.ca/) on the day of their absence (or by the day after, at the latest) in order to receive academic accommodation. Absences include those due to illness, death in the family, religious accommodation or other circumstances beyond their control.
 
-*C. Documentation* 
+**C. Documentation**
+
 The Verification of Student Illness or Injury form and Special Consideration Form are available at https://www.utm.utoronto.ca/iccit/students/forms.
 
 The Verification of Student Illness or Injury form must be completed by a Licensed Practitioner based on examination and applicable documented history at the time of illness or injury, not after the fact. Completion of this form does not guarantee that special consideration will be granted. Incomplete forms will not be processed. In some appeal situations, the University may require additional information from you or your practitioner to decide whether or not to grant or confirm special consideration. If you have questions about the Verification of Student Illness or Injury form, please visit http://www.illnessverification.utoronto.ca/.
 
 ## Re-marking Pieces of Term Work
 
-*General*
+**General**
+
 A student who believes that his or her written term work has been unfairly marked may ask the person who marked the work for re-evaluation. Students have up to one month from the date of return of an item of term work or from the date the mark was made available to inquire about the mark and file for an appeal. For example, should the work be returned or the mark be made available on March 3rd, the student has until April 3rd to inquire in writing and start the re-marking process. Instructors must acknowledge receipt of a student request for re-marking within 3-working days, and decisions should be provided in a timely fashion.
 
 If an academic misconduct case is in progress for the piece of term work in question, a student may not appeal until the matter is resolved.
 
-*Details*
-*Regrade requests for term work worth less than 20%* of the final mark may be submitted to the person who marked the work for re-evaluation. The student must submit (1) the original piece of work and (2) a written explanation detailing why they believe the work was unfairly/incorrectly marked. If the student is not satisfied with this re-evaluation, he or she may appeal to the instructor in charge of the course if the work was not marked by the instructor (e.g., was marked by a TA). In these instances where the instructor was not the one who marked the work, the student must now submit to the instructor (1) the original piece of work, (2) the written reasons as to why he or she believes the work was unfairly/incorrectly marked, and (3) communications from the original marker as to why no change in mark was made. If a re-marking is granted by an instructor, the student must accept the resulting mark as the new mark, whether it goes up or down or remains the same. Continuing with the remark or the appeal means the student accepts this condition. Instructors and TAs should ensure all communication with the student is in writing (e.g. follow-up email) and keep a copy for later reference.
+**Regrade requests for term work worth less than 20%** of the final mark may be submitted to the person who marked the work for re-evaluation. The student must submit (1) the original piece of work and (2) a written explanation detailing why they believe the work was unfairly/incorrectly marked. If the student is not satisfied with this re-evaluation, he or she may appeal to the instructor in charge of the course if the work was not marked by the instructor (e.g., was marked by a TA). In these instances where the instructor was not the one who marked the work, the student must now submit to the instructor (1) the original piece of work, (2) the written reasons as to why he or she believes the work was unfairly/incorrectly marked, and (3) communications from the original marker as to why no change in mark was made. If a re-marking is granted by an instructor, the student must accept the resulting mark as the new mark, whether it goes up or down or remains the same. Continuing with the remark or the appeal means the student accepts this condition. Instructors and TAs should ensure all communication with the student is in writing (e.g. follow-up email) and keep a copy for later reference.
 
-*Only term work worth at least 20%* of the course mark may be appealed beyond the instructor. Such appeals must first follow the same guidelines as those mentioned directly above for work worth less than 20%. To escalate an appeal beyond the instructor, the student must submit to the [department](https://www.utm.utoronto.ca/iccit/contact/iccit) (1) all previous communications between the student, original marker, and the instructor (2) the detailed reason(s) documenting why the mark for the work was inappropriate and (3) the original piece of work. If the department believes that re-marking is justified, the department shall select an independent reader. The student must agree in writing to be bound by the results of the re-reading process or abandon the appeal. Again, the student must accept that the mark resulting from the appeal may be higher or lower or the same as the original mark. Where possible, the independent reader should be given a clean, anonymous copy of the work. Without knowing the original assigned mark, the reader shall determine a mark for the work. The marking of the work should be considered within the context of the course of instruction for which it was submitted. If the new mark differs substantially from the original mark, the department shall determine a final mark taking into account both available marks.
+**Only term work worth at least 20%** of the course mark may be appealed beyond the instructor. Such appeals must first follow the same guidelines as those mentioned directly above for work worth less than 20%. To escalate an appeal beyond the instructor, the student must submit to the [department](https://www.utm.utoronto.ca/iccit/contact/iccit) (1) all previous communications between the student, original marker, and the instructor (2) the detailed reason(s) documenting why the mark for the work was inappropriate and (3) the original piece of work. If the department believes that re-marking is justified, the department shall select an independent reader. The student must agree in writing to be bound by the results of the re-reading process or abandon the appeal. Again, the student must accept that the mark resulting from the appeal may be higher or lower or the same as the original mark. Where possible, the independent reader should be given a clean, anonymous copy of the work. Without knowing the original assigned mark, the reader shall determine a mark for the work. The marking of the work should be considered within the context of the course of instruction for which it was submitted. If the new mark differs substantially from the original mark, the department shall determine a final mark taking into account both available marks.
 
 The final level of appeal is to the [Dean's Office](https://www.utm.utoronto.ca/dean/contact). Appeals must already have been considered at the two previous levels (Instructor followed by Department), with the decision reviewed by the head of the academic unit, before they will be considered by the Dean’s Office. Appeals must be submitted in writing, and include all previous correspondence, as soon as possible after the student receives the final response from the academic unit, but no later than one month after. Appeals to the Dean’s Office about the marking of term work will be reviewed to ensure that appropriate procedures have been followed in earlier appeals, that the student has been treated fairly, and that the standards applied have been consistent with those applied to other students doing the assignment. Any mark resulting from such an appeal will become the new mark, whether it is higher or lower or the same as the previous one. This process applies only to term work; appeals for re-reads of final examinations are handled directly by the Office of the Registrar.
 
@@ -133,25 +149,27 @@ Following a response from the ICCIT Director, students may submit an appeal, in 
 
 ### Missed Term Tests and Quizzes
 
-*A. Missed Term Tests and Quizzes* 
+**A. Missed Term Tests and Quizzes**
+
 Students who miss a term test/quiz will be assigned a mark of zero for that test/quiz unless they are granted special consideration.
 
 If the term test/quiz was missed for reasons entirely beyond the student's control, a Special Consideration Form explaining the reason for missing the test/quiz must be submitted to Academic Advisor, Rose Antonio (CCT3018), with original supporting documentation (e.g. U of T Verification of Student Illness or Injury, accident report, death certificate or other documentation confirming non-medical extenuating circumstances), within one week of the missed test. The department will review such requests and students whose requests are approved will be contacted by the instructor.
 
 In addition, students who miss a term test/quiz must declare their absence on ACORN the day of the test/quiz (or by the day after at the latest) in order to receive academic accommodation. Absences include those due to illness, death in the family, religious accommodation or other circumstances beyond their control.
 
-*B. Missed Term Test/Quiz Make-up*
+**B. Missed Term Test/Quiz Make-up**
+
 Students will be informed of the make-up date via email once they have received approval from the CCIT Academic Advisor. Students will write the test within 2 weeks of the original test/quiz. While attempts will be made to provide 5-7 days of notice before the test, please note that sometimes it is not possible and students should therefore be prepared for the make-up test/quiz at any time. There is no opportunity to defer a term test/quiz.
 
-*C. Documentation*
+**C. Documentation**
+
 The Verification of Student Illness or Injury form and Special Consideration Form are available at https://www.utm.utoronto.ca/iccit/students/forms.
 
 The Verification of Student Illness or Injury form must be completed by a Licensed Practitioner based on examination and applicable documented history at the time of illness or injury, not after the fact. Completion of this form does not guarantee that special consideration will be granted. Incomplete forms will not be processed. In some appeal situations, the University may require additional information from you or your practitioner to decide whether or not to grant or confirm special consideration. If you have questions about the Verification of Student Illness or Injury form, please visit http://www.illnessverification.utoronto.ca/.
 
-*D. Special Consideration Form*
-You are responsible for providing an accurate phone number and email address on your Special Consideration Form. It is your responsibility to obtain the decision from the department. Claims that a departmental decision was not received will not be considered as reason for further consideration.
+**D. Special Consideration Form**
 
-Pop quizzes will not be 
+You are responsible for providing an accurate phone number and email address on your Special Consideration Form. It is your responsibility to obtain the decision from the department. Claims that a departmental decision was not received will not be considered as reason for further consideration.
 
 ### Missed Final Exam
 
@@ -206,7 +224,8 @@ In addition, students must also follow the absence policies of the department an
 
 ### Other Resources
 
-*AccessAbility*
+**AccessAbility**
+
 The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code, including those who have a physical, sensory, or learning disability, mental health condition, acquired brain injury, or chronic health condition, be it visible or hidden.
 
 If you have a disability or health consideration that may require accommodations, please approach the AccessAbility Resource Centre as soon as possible. The AccessAbility staff are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
@@ -216,11 +235,13 @@ http://www.utm.utoronto.ca/access/
 
 *Students attending Sheridan-based courses with accommodation needs must register with the AccessAbility Resources Centre at UTM and the Accessible Learning Services at Sheridan College. For assistance at Sheridan, please contact Accessible Learning Services at 905-845-9430, ext. 2530 or trafalgar.als@sheridancollege.ca. For more information, please visit: https://www.sheridancollege.ca/life-at-sheridan/student-services/accessible-learning-services.aspx.
 
-*Robert Gillespie Academic Skills Centre*
+**Robert Gillespie Academic Skills Centre**
+
 The centre offers wide-ranging support to help students identify and develop the academic skills they need for success in their studies, including: understanding learning styles; essay and report writing; time management; lecture-listening; note-taking; and studying for tests and exams.
 http://www.utm.utoronto.ca/asc
 
-*UTM Library (Hazel McCallion Academic Learning Centre)*
+**UTM Library (Hazel McCallion Academic Learning Centre)**
+
 The UTM library provides access to a vast collection of online and print resources to faculty, staff, and students. Various services are available to students, including borrowing, interlibrary loans, online references, research help, laptop loans and the RBC Learning Commons.
 http://library.utm.utoronto.ca
 
@@ -289,6 +310,7 @@ http://library.utm.utoronto.ca
         <td>
             - What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091<br/>
             Additional reading:<br/>
+
 
         </td>
         <td>
