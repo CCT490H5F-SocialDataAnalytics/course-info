@@ -268,11 +268,13 @@ http://library.utm.utoronto.ca
                 <li>David Lazer, et al. 2013. "Computational Social Science." <em>Science</em> 323: 721-23.</li>
                 <li>David Lazer, et al. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." <em>Science</em> 343: 1203-05.</li>
                 <li>Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Ethnography Matters</em>. http://ethnographymatters.net/blog/2014/07/07/when-science-customer-service-and-human-subjects-research-collide-now-what/</li>
+                <li>Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/</li>
             </ul>        
-            <em>Recommended</em>:
+            <em>Recommended:</em>
             <ul>
-                <li>Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em></li>
-                <li>Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em>. http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html</li>
+                <li>Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em>. 659(1), 6-13.</li>
+                <li> Julia Angwin, et al. 2016. "Machine Bias." <em>ProPublica</em>. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing</li>
+                <li>Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs</li>
             </ul>
         </td>
         <td></td>
@@ -281,14 +283,6 @@ http://library.utm.utoronto.ca
         <td>Sep. 22</td>
         <td>NO CLASS</td>
         <td>
-            <ul>
-                <li>Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
-                <li>The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/
-            </ul>
-            <em>Recommended:</em>
-            <ul>
-                <li>Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs</li>
-            </ul>
         </td>
         <td>
             <ul>
@@ -329,11 +323,6 @@ http://library.utm.utoronto.ca
         <td>Oct. 13</td>
         <td>NO CLASS - reading week</td>
         <td>
-            <ul>
-                <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
-                <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).</li>
-                <li>Damon Centola. 2011. "An Experimental Study of Homophily in the Adoption of Health Behavior." <em>Science</em>: 334(6060), 1269-1272.</li>
-            </ul>
         </td>
         <td>
             <ul>
@@ -346,13 +335,14 @@ http://library.utm.utoronto.ca
         <td>Data modeling and visualisation</td>
         <td>
             <ul>
-                <li>Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/
+                <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
+                <li>Damon Centola. 2011. "An Experimental Study of Homophily in the Adoption of Health Behavior." <em>Science</em>: 334(6060), 1269-1272.</li>
+                <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).</li>
                 <li>http://guessthecorrelation.com/</li>
             </ul>
-            <em>Recommended</em>
+            <em>Recommended:</em>
             <ul>
-                <li>Edware Tufte. 1983. <em>The Visual Display of Quantitative Information</em>.
-                <li>Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.</li>
+
             </ul>
         </td>
         <td>
@@ -362,6 +352,14 @@ http://library.utm.utoronto.ca
         <td>Oct. 27</td>
         <td>Data modeling and visualisation</td>
         <td>
+            <ul>
+                <li>Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/
+            </ul>
+            <em>Recommended:</em>
+            <ul>
+                <li>Edware Tufte. 1983. <em>The Visual Display of Quantitative Information</em>.
+                <li>Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.</li>
+            </ul>
         </td>
         <td>
             <ul>
@@ -385,7 +383,7 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
-                <li>Sinan Aral and Dylan Walker. 2011. "Creating Social Contagion through Viral Product Design: A Randomized Trial of Peer Influence in Networks." <em>Management Science<em> 57(9): 1623-39.</li>
+                <li>Sinan Aral and Dylan Walker. 2011. "Creating Social Contagion through Viral Product Design: A Randomized Trial of Peer Influence in Networks." <em>Management Science</em> 57(9): 1623-39.</li>
             </ul>
             <em>Recommended:</em>
             <ul>
@@ -421,7 +419,7 @@ http://library.utm.utoronto.ca
             <ul>
                 <li>Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/</li>
                 <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
-            <ul>
+            </ul>
             <em>Recommended:</em>
             <ul>
                 <li>Miller McPherson, Lynn Smith-Lovin, James M. Cook. 2001. "Birds of a Feather: Homophily in Social Networks." <em>Annual Review of Sociology</em>. 27:415-44.</li>
