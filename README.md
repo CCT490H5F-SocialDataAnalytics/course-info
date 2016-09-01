@@ -32,7 +32,7 @@ Attendance in this class is mandatory. Classes will be the primary space where w
 
 **Reading**
 
-There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.** For each week, there will be a list of required readings. Below that, there will be a list of recommended readings. These readings are slightly more technical, but offer a much fuller description of what is offered in the required readings. I have kept the required readings intentionally short. They are meant to supplement the main task of learning the programming methods.
+There will be no required textbooks for this course. All required reading will be posted to the UofT Learning Portal under Library Reserves. The readings will focus on a number of topics: the emergence of the fields of big data and data science, uses of large-scale datasets for social scientific research, ethics of social data, and both popular and scholarly examples of cutting-edge data analysis work. **Readings should be completed before the date listed in the semester schedule.** For each week, there will be a list of required readings. Below that, there will be a list of recommended readings. These readings may be slight more technical and longer, but offer a much fuller description of what is offered in the required readings. I have kept the required readings intentionally short. They are meant to supplement the main task of learning the programming methods.
 
 **Pop quizzes**
 
@@ -255,7 +255,7 @@ http://library.utm.utoronto.ca
         <th>Assignments</th>
     </tr>
     <tr>
-        <td>Sept. 8</td>
+        <td>Sep. 8</td>
         <td>Introduction</td>
         <td></td>
         <td></td>
@@ -265,14 +265,14 @@ http://library.utm.utoronto.ca
         <td>Lab setup, introduction to Python</td>
         <td>
             <ul>
-                <li>David Lazer, et al. 2013. "Computational Social Science." <em>Science</em></li>
-                <li>David Lazer, et al. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." <em>Science</em></li>
-                <li>Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Culture Digitally</em></li>
+                <li>David Lazer, et al. 2013. "Computational Social Science." <em>Science</em> 323: 721-23.</li>
+                <li>David Lazer, et al. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." <em>Science</em> 343: 1203-05.</li>
+                <li>Mary L. Gray. 2014. "When Science, Customer Service, and Human Subjects Research Collide. Now What?" <em>Ethnography Matters</em>. http://ethnographymatters.net/blog/2014/07/07/when-science-customer-service-and-human-subjects-research-collide-now-what/</li>
             </ul>        
             <em>Recommended</em>:
             <ul>
                 <li>Dhavan V. Shah, Joseph N. Cappella, and W. Russell Neuman. 2015. "Big Data, Digital Media, and Computational Social Science: Possibilities and Perils." <em>The ANNALS of the American Academy of Political and Social Science</em></li>
-                <li>Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em></li>
+                <li>Kate Crawford. 2016. "Artificial Intelligence's White Guy Problem." <em>The New York Times</em>. http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html</li>
             </ul>
         </td>
         <td></td>
@@ -285,7 +285,7 @@ http://library.utm.utoronto.ca
                 <li>Yevegniy Brikman. 2014. "Don't learn to code. Learn to think." http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
                 <li>The Hello World Project. "Why Python Should Be The First Programming Language You Learn." http://www.thehelloworldprogram.com/python/why-python-should-be-the-first-programming-language-you-learn/
             </ul>
-            <em>Recommended</em>:
+            <em>Recommended:</em>
             <ul>
                 <li>Simon Peyton Jones. 2014. "Teaching creative computer science." https://www.youtube.com/watch?v=Ia55clAtdMs</li>
             </ul>
@@ -302,8 +302,8 @@ http://library.utm.utoronto.ca
         <td>Data cleaning and manipulation</td>
         <td>
             <ul>
+                <li>Daniel Kreiss. 2012. <em>Taking Our Country Back: The Crafting of Networked Politics from Howard Dean to Barack Obama</em>. Chapter 1. http://culturedigitally.org/wp-content/uploads/2012/07/Ch1-Kreiss.pdf
                 <li>Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.</li>
-                <li>Eytan Bakshy, et al. 2015. "Exposure to ideologically diverse news and opinion on Facebook." <em>Science</em>. 348(6239): 1130-32.</li>
             </ul>
         </td>
         <td></td>
@@ -313,6 +313,13 @@ http://library.utm.utoronto.ca
         <td>Data cleaning and manipulation</td>
         <td>
             <ul>
+                <li>Nate Silver. 2016. "How We're Forecasting the Primaries." <em>FiveThirtyEight</em>. http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
+                <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to Diverse Information on Facebook." https://research.facebook.com/blog/exposure-to-diverse-information-on-facebook/
+            </ul>
+            <em>Recommended:</em>
+            <ul>
+                <li>Natalie Stroud. 2011. <em>Niche News: The Politics of News Choice</em>.</li>
+                <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to ideologically diverse news and opinion on Facebook." <em>Science</em>. 348(6239): 1130-32.</li>
             </ul>
         </td>
         <td>
@@ -325,13 +332,13 @@ http://library.utm.utoronto.ca
             <ul>
                 <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
                 <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).</li>
-                <li>K. Namkoong, et al. 2013. "The effects of expression: how providing emotional support online improves cancer patients' coping strategies." <em>Journal of the National Cancer Institute Monographs</em>, 2013(47), 169.</li>
-                <li>http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>               
+                <li>Damon Centola. 2011. "An Experimental Study of Homophily in the Adoption of Health Behavior." <em>Science</em>: 334(6060), 1269-1272.</li>
             </ul>
-            <em>Recommended:</em>
-
         </td>
         <td>
+            <ul>
+                <li>Project prospectus due</li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -344,6 +351,7 @@ http://library.utm.utoronto.ca
             </ul>
             <em>Recommended</em>
             <ul>
+                <li>Edware Tufte. 1983. <em>The Visual Display of Quantitative Information</em>.
                 <li>Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.</li>
             </ul>
         </td>
@@ -352,11 +360,13 @@ http://library.utm.utoronto.ca
     </tr>
     <tr>
         <td>Oct. 27</td>
-        <td>Data modeling and visualization</td>
+        <td>Data modeling and visualisation</td>
         <td>
         </td>
         <td>
-            <li>Project prospectus due</li>
+            <ul>
+                <li>Mid-term report due</li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -364,7 +374,7 @@ http://library.utm.utoronto.ca
         <td>Web scraping and APIs</td>
         <td>
             <ul>
-               <li>Dhavan V. Shah, et al. 2015. "The Power of Television Images in a Social Media Age Linking Biobehavioral and Computational Approaches via the Second Screen." <em>The ANNALS of the American Academy of Political and Social Science</em> 659(1): 225-245.</li>
+               <li>Matthew J. Salganik, et al. 2006. "Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market." <em>Science</em> 311(854).</li>
             </ul>
         </td>
         <td></td>
@@ -375,6 +385,7 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
+                <li>Sinan Aral and Dylan Walker. 2011. "Creating Social Contagion through Viral Product Design: A Randomized Trial of Peer Influence in Networks." <em>Management Science<em> 57(9): 1623-39.</li>
             </ul>
             <em>Recommended:</em>
             <ul>
@@ -393,23 +404,29 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em></li>
-                <li>Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/</li>
-                <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
+                <li>James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.</li>                
             </ul>
             <em>Recommended:</em>
             <ul>
-                <li>James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.</li>                
                 <li>Justin Grimmer and Brandon Stewart. 2013. "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." <em>Political Analysis</em> 1-31.</li>
             </ul>
         </td>  
         <td>
-            <li>Mid-term report due
         </td>
     </tr>
     <tr>
         <td>Nov. 24</td>
         <td>Automated text analysis and social network analysis</td>
         <td>
+            <ul>
+                <li>Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/</li>
+                <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
+            <ul>
+            <em>Recommended:</em>
+            <ul>
+                <li>Miller McPherson, Lynn Smith-Lovin, James M. Cook. 2001. "Birds of a Feather: Homophily in Social Networks." <em>Annual Review of Sociology</em>. 27:415-44.</li>
+                <li>Stanley Wasserman and Katherine Faust. 1994. <em>Social Network Analysis: Methods and Applications</em>.
+            </ul>
         </td>
         <td>
             <ul>
