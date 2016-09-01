@@ -295,10 +295,7 @@ http://library.utm.utoronto.ca
         <td>Sep. 29</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            <ul>
-                <li>Daniel Kreiss. 2012. <em>Taking Our Country Back: The Crafting of Networked Politics from Howard Dean to Barack Obama</em>. Chapter 1. http://culturedigitally.org/wp-content/uploads/2012/07/Ch1-Kreiss.pdf
-                <li>Robert M. Bond, et al. 2012. "A 61-million-person experiment in social influence and political mobilization." <em>Nature</em> 489: 295-298.</li>
-            </ul>
+            <ul></ul>
         </td>
         <td></td>
     </tr>
@@ -308,11 +305,10 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>Nate Silver. 2016. "How We're Forecasting the Primaries." <em>FiveThirtyEight</em>. http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
-                <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to Diverse Information on Facebook." https://research.facebook.com/blog/exposure-to-diverse-information-on-facebook/
+                <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to Diverse Information on Facebook." https://research.facebook.com/blog/exposure-to-diverse-information-on-facebook/</li>
             </ul>
             <em>Recommended:</em>
             <ul>
-                <li>Natalie Stroud. 2011. <em>Niche News: The Politics of News Choice</em>.</li>
                 <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to ideologically diverse news and opinion on Facebook." <em>Science</em>. 348(6239): 1130-32.</li>
             </ul>
         </td>
@@ -336,13 +332,7 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
-                <li>Damon Centola. 2011. "An Experimental Study of Homophily in the Adoption of Health Behavior." <em>Science</em>: 334(6060), 1269-1272.</li>
-                <li>Munmun De Choudhury, et al. 2013. "Predicting Depression via Social Media." In Proceedings of the 7th International AAAI Conference on Weblogs and Social Media (ICWSM).</li>
                 <li>http://guessthecorrelation.com/</li>
-            </ul>
-            <em>Recommended:</em>
-            <ul>
-
             </ul>
         </td>
         <td>
@@ -353,7 +343,7 @@ http://library.utm.utoronto.ca
         <td>Data modeling and visualisation</td>
         <td>
             <ul>
-                <li>Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/
+                <li>Kieran Healy. 2015. "Redrawing a Bad Slide." https://kieranhealy.org/blog/archives/2015/12/15/redrawing-a-bad-slide/</li>
             </ul>
             <em>Recommended:</em>
             <ul>
@@ -371,9 +361,7 @@ http://library.utm.utoronto.ca
         <td>Nov. 3</td>
         <td>Web scraping and APIs</td>
         <td>
-            <ul>
-               <li>Matthew J. Salganik, et al. 2006. "Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market." <em>Science</em> 311(854).</li>
-            </ul>
+            <ul></ul>
         </td>
         <td></td>
     </tr>
@@ -383,7 +371,6 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
-                <li>Sinan Aral and Dylan Walker. 2011. "Creating Social Contagion through Viral Product Design: A Randomized Trial of Peer Influence in Networks." <em>Management Science</em> 57(9): 1623-39.</li>
             </ul>
             <em>Recommended:</em>
             <ul>
@@ -418,12 +405,10 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>Kieran Healy. 2013. "Using metadata to find Paul Revere." https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/</li>
-                <li>Sandra González-Bailón, et al. 2011. "The Dynamics of Protest recruitment through an Online Network."</li>
             </ul>
             <em>Recommended:</em>
             <ul>
                 <li>Miller McPherson, Lynn Smith-Lovin, James M. Cook. 2001. "Birds of a Feather: Homophily in Social Networks." <em>Annual Review of Sociology</em>. 27:415-44.</li>
-                <li>Stanley Wasserman and Katherine Faust. 1994. <em>Social Network Analysis: Methods and Applications</em>.
             </ul>
         </td>
         <td>
