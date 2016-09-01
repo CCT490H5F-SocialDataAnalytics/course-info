@@ -313,6 +313,7 @@ http://library.utm.utoronto.ca
         </td>
         <td>
             <ul>
+                <li>Assignment #2 due</li>
                 <li>Project prospectus due</li>
             </ul>
         </td>
@@ -339,7 +340,6 @@ http://library.utm.utoronto.ca
             </ul>
             <em>Recommended:</em>
             <ul>
-                <li>Edware Tufte. 1983. <em>The Visual Display of Quantitative Information</em>.
                 <li>Kieran Healy and James Moody. 2014. "Data Visualization in Sociology." <em>Annual Review of Sociology</em> 40:105-28.</li>
             </ul>
         </td>
