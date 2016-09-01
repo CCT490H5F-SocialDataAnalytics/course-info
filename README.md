@@ -295,7 +295,6 @@ http://library.utm.utoronto.ca
         <td>Sep. 29</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            <ul></ul>
         </td>
         <td></td>
     </tr>
@@ -303,14 +302,6 @@ http://library.utm.utoronto.ca
         <td>Oct. 6</td>
         <td>Data cleaning and manipulation</td>
         <td>
-            <ul>
-                <li>Nate Silver. 2016. "How We're Forecasting the Primaries." <em>FiveThirtyEight</em>. http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
-                <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to Diverse Information on Facebook." https://research.facebook.com/blog/exposure-to-diverse-information-on-facebook/</li>
-            </ul>
-            <em>Recommended:</em>
-            <ul>
-                <li>Eytan Bakshy, Solomon Messing, Lada Adamic. 2015. "Exposure to ideologically diverse news and opinion on Facebook." <em>Science</em>. 348(6239): 1130-32.</li>
-            </ul>
         </td>
         <td>
         </td>
@@ -332,6 +323,7 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
+                <li>Nate Silver. 2016. "How We're Forecasting the Primaries." <em>FiveThirtyEight</em>. http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
                 <li>http://guessthecorrelation.com/</li>
             </ul>
         </td>
@@ -361,7 +353,9 @@ http://library.utm.utoronto.ca
         <td>Nov. 3</td>
         <td>Web scraping and APIs</td>
         <td>
-            <ul></ul>
+            <ul>
+                <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
+            </ul>
         </td>
         <td></td>
     </tr>
@@ -370,11 +364,6 @@ http://library.utm.utoronto.ca
         <td>Web scraping and APIs</td>
         <td>
             <ul>
-                <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
-            </ul>
-            <em>Recommended:</em>
-            <ul>
-                <li>Scrapy tutorial. http://doc.scrapy.org/en/latest/intro/tutorial.html</li>
             </ul>
         </td>
         <td>
@@ -388,7 +377,7 @@ http://library.utm.utoronto.ca
         <td>Automated text analysis and social network analysis</td>
         <td>
             <ul>
-                <li>Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em></li>
+                <li>Joshua Tucker. 2016. "Here's how text analysis is transforming social-science research." <em>The Washington Post</em>. https://www.washingtonpost.com/news/monkey-cage/wp/2016/05/27/heres-how-text-analysis-is-transforming-social-science-research/</li>
                 <li>James W. Pennebaker. 2002. What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.</li>                
             </ul>
             <em>Recommended:</em>
@@ -408,7 +397,7 @@ http://library.utm.utoronto.ca
             </ul>
             <em>Recommended:</em>
             <ul>
-                <li>Miller McPherson, Lynn Smith-Lovin, James M. Cook. 2001. "Birds of a Feather: Homophily in Social Networks." <em>Annual Review of Sociology</em>. 27:415-44.</li>
+                <li>Miller McPherson, Lynn Smith-Lovin, and James M. Cook. 2001. "Birds of a Feather: Homophily in Social Networks." <em>Annual Review of Sociology</em>. 27:415-44.</li>
             </ul>
         </td>
         <td>
