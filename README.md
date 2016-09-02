@@ -3,8 +3,8 @@
 - Instructor: Professor Alex Hanna 
 - Instructor Email: alex.hanna@utoronto.ca
 - Office: CC 3080
-- TA: TBD
-- TA Email: TBD
+- TA: Joanie Lim
+- TA Email: joanie.lim@utoronto.ca
 - Meetings: Thursday 8:45 AM - 10:45 AM
 - Location: DH 2010
 - Office hours: Thursday 1:15 - 3:15 PM, or by appointment
@@ -12,7 +12,7 @@
 
 ### Course Description
 
-This course highlights the research in analysis for social data and builds skills to undertake those analysis. It is a lab-intensive course intended to build up data analytic skills for novice and intermediate researchers. We start with reviews of recent studies using "big data" which are primarily theoretical, including critiques of data analytics and data ethics. We then cover several fields: health, strategic and consumer research, and politics. At the same time, we will be learning a programming language -- Python -- and learn how to scrape social data, store and collect it, run basic statistics, generate visuals, and create a report based on a project of interest.
+This course highlights the research in analysis for social data and builds skills to undertake those analysis. It is a lab-intensive course intended to build up data analytic skills for novice and intermediate researchers. We start with reviews of recent studies using "big data" which are primarily theoretical, including critiques of data analytics and concerns surrounding data ethics. We will also be learning a programming language -- Python -- and learn how to scrape social data, store and collect it, run basic statistics, generate visuals, and create a report based on a project of interest.
 
 This course will be substantive as well as hands on. In lecture, we will focus on both theoretical principles of social data analysis, on coding principles, and examples of social data analysis in the wild. This will also be lab-oriented, in which we focus on applying the knowledge learned in lecture and completing lab assignments. 
 
