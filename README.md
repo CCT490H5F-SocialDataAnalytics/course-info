@@ -310,25 +310,23 @@ http://library.utm.utoronto.ca
         <td>Oct. 13</td>
         <td>NO CLASS - reading week</td>
         <td>
+            <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
+            <li>Nate Silver. 2016. "How We're Forecasting the Primaries." <em>FiveThirtyEight</em>. http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
+            <li>http://guessthecorrelation.com/</li>
         </td>
         <td>
-            <ul>
-                <li>Assignment #2 due</li>
-                <li>Project prospectus due</li>
-            </ul>
         </td>
     </tr>
     <tr>
         <td>Oct. 20</td>
         <td>Data modeling and visualisation</td>
         <td>
-            <ul>
-                <li>What exactly is building a statistical model? <em>Cross Validated</em>. http://stats.stackexchange.com/a/63091</li>
-                <li>Nate Silver. 2016. "How We're Forecasting the Primaries." <em>FiveThirtyEight</em>. http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/</li>
-                <li>http://guessthecorrelation.com/</li>
-            </ul>
         </td>
         <td>
+            <ul>
+                <li>Assignment #2 due</li>
+                <li>Project prospectus due</li>
+            </ul>
         </td>
     </tr>
     <tr>
