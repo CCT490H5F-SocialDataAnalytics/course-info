@@ -10,7 +10,15 @@
 - Office hours: Thursday 1:15 - 3:15 PM, or by appointment
 - Course website: https://github.com/CCT490H5F-SocialDataAnalytics
 
-### Course Description
+### Table of Contents
+
+1. [Course Description](#course-description)
+2. [Course Requirements](#course-requirements)
+3. [Grading](#grading)
+4. [Procedures and Rules](#procedures-and-rules)
+5. [Schedule](#schedule)
+
+## Course Description
 
 This course highlights the research in analysis for social data and builds skills to undertake those analysis. It is a lab-intensive course intended to build up data analytic skills for novice and intermediate researchers. We start with reviews of recent studies using "big data" which are primarily theoretical, including critiques of data analytics and concerns surrounding data ethics. We will also be learning a programming language -- Python -- and learn how to scrape social data, store and collect it, run basic statistics, generate visuals, and create a report based on a project of interest.
 
@@ -50,7 +58,7 @@ This course is oriented such that you can design and execute research projects c
 
 You should check the syllabus often for deadlines and for course requirements. The best way to start on a path to success is to read and understand this syllabus, and to keep it with your class notes and refer to it as needed. Once you've read this syllabus in full, please email me a picture of a capybara.
 
-### Grading
+## Grading
 
 - Attendance: 5%
 - Quizzes: 15%
@@ -127,7 +135,7 @@ The Verification of Student Illness or Injury form and Special Consideration For
 
 The Verification of Student Illness or Injury form must be completed by a Licensed Practitioner based on examination and applicable documented history at the time of illness or injury, not after the fact. Completion of this form does not guarantee that special consideration will be granted. Incomplete forms will not be processed. In some appeal situations, the University may require additional information from you or your practitioner to decide whether or not to grant or confirm special consideration. If you have questions about the Verification of Student Illness or Injury form, please visit http://www.illnessverification.utoronto.ca/.
 
-## Re-marking Pieces of Term Work
+### Re-marking Pieces of Term Work
 
 **General**
 
@@ -177,7 +185,7 @@ Final examinations are scheduled, administered and governed by the policies set 
 
 Students who cannot write a final examination due to illness or other serious causes must file an [online petition](http://www.utm.utoronto.ca/registrar/current-students/petitions) within 72 hours of the missed examination. Original supporting documentation must also be submitted to the Office of the Registrar within 72 hours of the missed exam. Late petitions will NOT be considered. If illness is cited as the reason for a deferred exam request, a U of T Verification of Student Illness or Injury Form must show that you were examined and diagnosed at the time of illness and on the date of the exam, or by the day after at the latest. Students must also record their absence on ROSI on the day of the missed exam or by the day after at the latest. Upon approval of a deferred exam request, a non-refundable fee of $70 is required for each examination approved.
 
-## Academic Integrity
+### Academic Integrity
 
 Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the University of Toronto is a strong signal of each student’s individual academic achievement. As a result, the University treats cases of cheating and plagiarism very seriously. The University of Toronto’s Code of Behaviour on Academic Matters (www.governingcouncil.utoronto.ca/policies/behaveac.htm) outlines the behaviours that constitute academic dishonesty and the processes for addressing academic offences. Potential offences include, but are not limited to:
 
