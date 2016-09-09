@@ -2,7 +2,7 @@
 
 - Instructor: Professor Alex Hanna 
 - Instructor Email: alex.hanna@utoronto.ca
-- Office: CC 3080
+- Office: CC 3083
 - TA: Joanie Lim
 - TA Email: joanie.lim@utoronto.ca
 - Meetings: Thursday 8:45 AM - 10:45 AM
@@ -46,13 +46,13 @@ There will be no required textbooks for this course. All required reading will b
 
 There will be a number of short pop quizzes which cover readings, coding principles, and lab activities. Quizzes will be held as soon as class starts. It is critical that you arrive to class on time. 
 
-**Exams**
-
-There will be a comprehensive final exam which will focus on social science research and coding principles. The final exam will occur during the usual final exam period. It will be a mix of multiple choice and open-ended questions.
-
 **Project**
 
 This course is oriented such that you can design and execute research projects concerning questions of your choosing. To that end, you will be doing that exact thing in this course. At several points in the semester, there will be a milestone you must reach with the project. Early on, you'll write a short (one-page) *abstract* about your project: the question you are trying to answer, potential data sources, and types of analyses you will undertake. That will then be fleshed out into a larger (two- to three-page) *prospectus*, which describes in more detail the research question, why it is an important question, then outlines concretely the tasks for data collection, management, and finally analysis. Several weeks before the project is due, you will submit a *mid-term report* which discusses the progress of your project, the difficulties you've had thus far, and what you have left to finish. Lastly, at the end of the semester, you will submit a six- to ten-page *final report* which describes your research project in full. It should contain all graphs and figures, and have correct citations. You will also have to submit your code and the data you used.
+
+**Exam**
+
+There will be a comprehensive final exam which will focus on social science research and coding principles. The final exam will occur during the usual final exam period. It will be a mix of multiple choice and open-ended questions.
 
 **Syllabus**
 
@@ -350,9 +350,6 @@ http://library.utm.utoronto.ca
             </ul>
         </td>
         <td>
-            <ul>
-                <li>Mid-term report due</li>
-            </ul>
         </td>
     </tr>
     <tr>
@@ -363,7 +360,11 @@ http://library.utm.utoronto.ca
                 <li>MuleSoft. 2015. "What is an API?" https://www.youtube.com/watch?v=s7wmiS2mSXY</li>
             </ul>
         </td>
-        <td></td>
+        <td>
+            <ul>
+                <li>Mid-term report due</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td>Nov. 10</td>
