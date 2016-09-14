@@ -294,7 +294,6 @@ http://library.utm.utoronto.ca
         </td>
         <td>
             <ul>
-                <li>Assignment #1 due</li>
                 <li>Project abstract due</li>
             </ul>
         </td>
@@ -304,7 +303,11 @@ http://library.utm.utoronto.ca
         <td>Data cleaning and manipulation</td>
         <td>
         </td>
-        <td></td>
+        <td>
+            <ul>
+                <li>Assignment #1 due</li>
+            </ul>                
+        </td>
     </tr>
     <tr>
         <td>Oct. 6</td>
