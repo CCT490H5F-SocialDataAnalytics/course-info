@@ -88,10 +88,10 @@ You should check the syllabus often for deadlines and for course requirements. T
 
 ### Due dates
 
-    Sep 22 - Assignment 1
     Sep 22 - Project abstract
-    Oct 13 - Assignment 2
-    Oct 27 - Project prospectus
+    Sep 29 - Assignment 1
+    Oct 20 - Assignment 2
+    Oct 20 - Project prospectus
     Nov 10 - Assignment 3
     Nov 17 - Midterm report
     Nov 24 - Assignment 4
@@ -361,9 +361,6 @@ http://library.utm.utoronto.ca
             </ul>
         </td>
         <td>
-            <ul>
-                <li>Mid-term report due</li>
-            </ul>
         </td>
     </tr>
     <tr>
@@ -393,6 +390,9 @@ http://library.utm.utoronto.ca
             </ul>
         </td>  
         <td>
+            <ul>
+                <li>Mid-term report due</li>
+            </ul>
         </td>
     </tr>
     <tr>
