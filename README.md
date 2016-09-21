@@ -89,7 +89,7 @@ You should check the syllabus often for deadlines and for course requirements. T
 ### Due dates
 
     Sep 22 - Project abstract
-    Sep 29 - Assignment 1
+    Oct 2  - Assignment 1
     Oct 20 - Assignment 2
     Oct 20 - Project prospectus
     Nov 10 - Assignment 3
@@ -303,11 +303,7 @@ http://library.utm.utoronto.ca
         <td>Data cleaning and manipulation</td>
         <td>
         </td>
-        <td>
-            <ul>
-                <li>Assignment #1 due</li>
-            </ul>                
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td>Oct. 6</td>
@@ -315,6 +311,9 @@ http://library.utm.utoronto.ca
         <td>
         </td>
         <td>
+            <ul>
+                <li>Assignment #1 due (midnight, 10/2)</li>
+            </ul>
         </td>
     </tr>
     <tr>
