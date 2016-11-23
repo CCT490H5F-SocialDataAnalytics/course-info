@@ -411,7 +411,7 @@ http://library.utm.utoronto.ca
         </td>
         <td>
             <ul>
-                <li>Assignment #4 due</li>
+                <li></li>
             </ul>
         </td>
     </tr>
@@ -422,13 +422,14 @@ http://library.utm.utoronto.ca
         <td>
             <ul>
                 <li>Final project due</li>
+                <li>Assignment #4 due (Dec 4 @ midnight)</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td></td>
+        <td>Dec. 15, 9-11 AM</td>
         <td>FINAL EXAM</td>
-        <td>Date and Location TBD</td>
+        <td>IB 110</td>
         <td></td>
     </tr>
 </table>
